@@ -1,4 +1,4 @@
-package com.example.NTG_Bank.BatchProcessing.processor;
+package com.example.NTG_Bank.batchprocessing.processor;
 import com.example.NTG_Bank.entity.Customer;
 import org.springframework.batch.item.ItemProcessor;
 

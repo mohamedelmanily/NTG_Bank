@@ -1,4 +1,4 @@
-package com.example.NTG_Bank.BatchProcessing.writter;
+package com.example.NTG_Bank.batchprocessing.writter;
 import com.example.NTG_Bank.entity.Customer;
 import org.springframework.batch.item.database.JdbcBatchItemWriter;
 import org.springframework.batch.item.database.builder.JdbcBatchItemWriterBuilder;

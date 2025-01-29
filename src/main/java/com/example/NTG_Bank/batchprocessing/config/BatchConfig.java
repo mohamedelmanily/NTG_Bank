@@ -1,8 +1,8 @@
-package com.example.NTG_Bank.BatchProcessing.config;
+package com.example.NTG_Bank.batchprocessing.config;
 
-import com.example.NTG_Bank.BatchProcessing.processor.CustomerItemProcessor;
-import com.example.NTG_Bank.BatchProcessing.reader.CustomerItemReader;
-import com.example.NTG_Bank.BatchProcessing.writter.CustomerItemWriter;
+import com.example.NTG_Bank.batchprocessing.processor.CustomerItemProcessor;
+import com.example.NTG_Bank.batchprocessing.reader.CustomerItemReader;
+import com.example.NTG_Bank.batchprocessing.writter.CustomerItemWriter;
 import com.example.NTG_Bank.entity.Customer;
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
