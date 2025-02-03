@@ -4,6 +4,8 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
+import org.springframework.format.annotation.DateTimeFormat;
+
 import java.time.LocalDateTime;
 
 @Getter
@@ -14,14 +16,15 @@ import java.time.LocalDateTime;
 @Table
 public class Transaction {
     @Id
-    private Long id;
+    private Long transactionId;
+    @Transient
+    private Long accountId;
     private String description;
-    private Double creditAmount;
-    private Double debitAmount;
+    private Double credit;
+    private Double debit;
     private LocalDateTime timestamp;
-
 //    Relationship between 'Transaction' and 'Account'
     @ManyToOne
-    @JoinColumn(name="account_id")
+    @JoinColumn(name="accountId")
     private Account account;
 }

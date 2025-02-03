@@ -1,4 +1,0 @@
-id,firstName,middleName,lastName,address1,address2,city,state,postalCode,emailAddress,homePhone,cellPhone,workPhone
-1,John,A.,Doe,123 Main St,Apt 1,New York,NY,10001,john.doe@example.com,555-1234,555-4321,555-5678
-2,Jane,B.,Smith,456 Elm St,Suite 200,Los Angeles,CA,90001,jane.smith@example.com,555-5678,555-8765,555-1234
-3,Michael,C.,Johnson,789 Oak St,Apt 303,Chicago,IL,60601,michael.johnson@example.com,555-8765,555-1234,555-8765

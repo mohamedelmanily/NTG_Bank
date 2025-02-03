@@ -14,7 +14,7 @@ import java.util.List;
 @Table
 public class Customer {
     @Id
-    private Long id;
+    private Long customerId;
     private String firstName;
     private String middleName;
     private String lastName;

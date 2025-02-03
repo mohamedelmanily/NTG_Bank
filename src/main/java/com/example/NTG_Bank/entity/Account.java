@@ -4,7 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-import java.time.LocalDate;
+import java.time.LocalDateTime;
 import java.util.List;
 
 @Getter
@@ -15,19 +15,20 @@ import java.util.List;
 @Table
 public class Account {
     @Id
-    private Long id;
+    private Long accountId;
+    @Transient
+    private Long customerId;
     private Double currentBalance;
-    private LocalDate lastStatementDate;
+    private LocalDateTime lastStatementDate;
 
 
 //    Relation between Account to Customer
     @ManyToOne()
-    @JoinColumn(name="customer_id")
+    @JoinColumn(name="customerId")
     private Customer customer;
 
 //    Relation between Account to Transaction
     @OneToMany(mappedBy = "account",cascade = CascadeType.ALL, orphanRemoval = true)
     private List<Transaction> transactions;
-
 
 }

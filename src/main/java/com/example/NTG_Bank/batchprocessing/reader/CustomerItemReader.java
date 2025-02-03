@@ -9,10 +9,9 @@ public class CustomerItemReader {
     public FlatFileItemReader<Customer> reader() {
         return new FlatFileItemReaderBuilder<Customer>()
                 .name("customerItemReader")
-                .resource(new ClassPathResource("customers.csv"))
-                .linesToSkip(1)
+                .resource(new ClassPathResource("customers v2.0.csv"))
                 .delimited()
-                .names("id", "firstName", "middleName", "lastName", "address1", "address2", "city", "state", "postalCode", "emailAddress", "homePhone", "cellPhone", "workPhone")
+                .names("customerId","firstName", "middleName", "lastName", "address1", "address2", "city", "state", "postalCode", "emailAddress", "homePhone", "cellPhone", "workPhone")
                 .targetType(Customer.class)
                 .build();
     }
