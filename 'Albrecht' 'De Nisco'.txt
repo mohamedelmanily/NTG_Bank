@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Albrecht' 'De Nisco'
+Address: '365 Summerview Crossing'
+City: 'Waltham'
+State: 'Massachusetts'
+PostalCode: '35205'
+
+========================================
+

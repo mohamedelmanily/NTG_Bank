@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Meade' 'Troth'
+Address: '5934 7th Lane'
+City: 'Irvine'
+State: 'California'
+PostalCode: '78405'
+
+========================================
+
+Account ID: 283
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-27T23:47:05 Description: Photobug                    Credit: N/A          Debit: 876.00       
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 876.00
+Current Balance: -876.00
+================================================================
+

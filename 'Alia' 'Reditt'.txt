@@ -1,0 +1,24 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Alia' 'Reditt'
+Address: '95237 Kenwood Court'
+City: 'Worcester'
+State: 'Massachusetts'
+PostalCode: '95210'
+
+========================================
+
+Account ID: 108
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-19T17:10:26 Description: Gevee                       Credit: N/A          Debit: 2216.00      
+Timestamp: 2018-06-13T19:46:02 Description: Quaxo                       Credit: 2640.87      Debit: N/A          
+Timestamp: 2018-06-24T05:40:13 Description: Skinder                     Credit: 21802.08     Debit: N/A          
+----------------------------------------
+Total Credits: 24442.95
+Total Debits: 2216.00
+Current Balance: 22226.95
+================================================================
+

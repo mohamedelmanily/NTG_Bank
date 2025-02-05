@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Shelley' 'Aldcorne'
+Address: '31488 Morningstar Place'
+City: 'Salinas'
+State: 'California'
+PostalCode: '36104'
+
+========================================
+
+Account ID: 212
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-13T20:12:49 Description: Meevee                      Credit: 7913.57      Debit: N/A          
+Timestamp: 2018-06-16T09:03:22 Description: Rhynyx                      Credit: N/A          Debit: 2465.00      
+----------------------------------------
+Total Credits: 7913.57
+Total Debits: 2465.00
+Current Balance: 5448.57
+================================================================
+

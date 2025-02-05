@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Dex' 'Gudahy'
+Address: '9 Rutledge Terrace'
+City: 'Las Vegas'
+State: 'Nevada'
+PostalCode: '19151'
+
+========================================
+
+Account ID: 170
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-12T13:48:34 Description: Trilith                     Credit: N/A          Debit: 1208.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 1208.00
+Current Balance: -1208.00
+================================================================
+

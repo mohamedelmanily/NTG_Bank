@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Penny' 'Bastistini'
+Address: '67 Red Cloud Trail'
+City: 'Amarillo'
+State: 'Texas'
+PostalCode: '17105'
+
+========================================
+

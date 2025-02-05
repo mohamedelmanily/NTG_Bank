@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Ichabod' 'Tuckie'
+Address: '06814 Chive Lane'
+City: 'Gilbert'
+State: 'Arizona'
+PostalCode: '53779'
+
+========================================
+
+Account ID: 721
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-19T10:46:09 Description: Yozio                       Credit: 17603.88     Debit: N/A          
+Timestamp: 2018-06-05T12:43:45 Description: Tazzy                       Credit: N/A          Debit: 2000.00      
+----------------------------------------
+Total Credits: 17603.88
+Total Debits: 2000.00
+Current Balance: 15603.88
+================================================================
+

@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Janek' 'Itzik'
+Address: '37945 6th Drive'
+City: 'Lakeland'
+State: 'Florida'
+PostalCode: '44185'
+
+========================================
+

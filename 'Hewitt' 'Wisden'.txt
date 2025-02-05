@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Hewitt' 'Wisden'
+Address: '52 East Street'
+City: 'Jersey City'
+State: 'New Jersey'
+PostalCode: '19172'
+
+========================================
+

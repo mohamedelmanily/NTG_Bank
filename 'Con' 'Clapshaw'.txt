@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Con' 'Clapshaw'
+Address: '16414 Mesta Court'
+City: 'Madison'
+State: 'Wisconsin'
+PostalCode: '66606'
+
+========================================
+
+Account ID: 708
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-15T19:48:09 Description: Kwilith                     Credit: N/A          Debit: 1328.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 1328.00
+Current Balance: -1328.00
+================================================================
+

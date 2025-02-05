@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Kelley' 'Dineges'
+Address: '63675 Harbort Terrace'
+City: 'Tucson'
+State: 'Arizona'
+PostalCode: '07104'
+
+========================================
+
+Account ID: 201
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-05T02:51:34 Description: Twinte                      Credit: N/A          Debit: 963.00       
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 963.00
+Current Balance: -963.00
+================================================================
+

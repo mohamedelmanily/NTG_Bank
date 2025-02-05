@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Morena' 'Purdie'
+Address: '9 Dexter Park'
+City: 'San Diego'
+State: 'California'
+PostalCode: '90055'
+
+========================================
+
+Account ID: 320
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

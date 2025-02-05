@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Arabele' 'Daviot'
+Address: '4710 Forster Circle'
+City: 'Boynton Beach'
+State: 'Florida'
+PostalCode: '84403'
+
+========================================
+
+Account ID: 983
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-26T23:48:28 Description: Thoughtbeat                 Credit: N/A          Debit: 1589.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 1589.00
+Current Balance: -1589.00
+================================================================
+

@@ -2,7 +2,9 @@ package com.example.NTG_Bank.batchprocessing.processor;
 
 import com.example.NTG_Bank.entity.Transaction;
 import org.springframework.batch.item.ItemProcessor;
+import org.springframework.stereotype.Component;
 
+@Component
 public class TransactionItemProcessor implements ItemProcessor<Transaction, Transaction> {
     @Override
     public Transaction process(Transaction transaction) throws Exception {

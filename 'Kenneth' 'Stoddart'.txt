@@ -1,0 +1,32 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Kenneth' 'Stoddart'
+Address: '1165 Jenna Junction'
+City: 'Columbia'
+State: 'South Carolina'
+PostalCode: '10079'
+
+========================================
+
+Account ID: 355
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-14T00:06:54 Description: Thoughtblab                 Credit: N/A          Debit: 3996.00      
+Timestamp: 2018-06-13T13:04:14 Description: Zoomlounge                  Credit: N/A          Debit: 787.00       
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 4783.00
+Current Balance: -4783.00
+================================================================
+
+Account ID: 745
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

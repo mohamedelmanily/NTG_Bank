@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Lonnie' 'Waple'
+Address: '2168 Petterle Junction'
+City: 'Syracuse'
+State: 'New York'
+PostalCode: '90510'
+
+========================================
+
+Account ID: 68
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-27T19:58:57 Description: Twitterworks                Credit: 20586.49     Debit: N/A          
+----------------------------------------
+Total Credits: 20586.49
+Total Debits: 0.00
+Current Balance: 20586.49
+================================================================
+

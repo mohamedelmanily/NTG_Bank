@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Phelia' 'Aleswell'
+Address: '1008 Loomis Parkway'
+City: 'New Orleans'
+State: 'Louisiana'
+PostalCode: '77386'
+
+========================================
+
+Account ID: 750
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-02T09:36:28 Description: Photospace                  Credit: N/A          Debit: 3134.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 3134.00
+Current Balance: -3134.00
+================================================================
+

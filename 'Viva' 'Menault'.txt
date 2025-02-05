@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Viva' 'Menault'
+Address: '2809 Shoshone Lane'
+City: 'Albany'
+State: 'New York'
+PostalCode: '33625'
+
+========================================
+

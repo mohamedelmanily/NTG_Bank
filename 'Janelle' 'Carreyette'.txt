@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Janelle' 'Carreyette'
+Address: '72 Kingsford Pass'
+City: 'Ann Arbor'
+State: 'Michigan'
+PostalCode: '88569'
+
+========================================
+
+Account ID: 470
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

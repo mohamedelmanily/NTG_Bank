@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Martica' 'von Hagt'
+Address: '692 Starling Plaza'
+City: 'Alexandria'
+State: 'Virginia'
+PostalCode: '78710'
+
+========================================
+
+Account ID: 326
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

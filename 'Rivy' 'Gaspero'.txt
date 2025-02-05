@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Rivy' 'Gaspero'
+Address: '353 Marcy Parkway'
+City: 'Los Angeles'
+State: 'California'
+PostalCode: '65805'
+
+========================================
+
+Account ID: 551
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-03T00:10:24 Description: Innotype                    Credit: 5571.56      Debit: N/A          
+Timestamp: 2018-06-23T23:59:59 Description: Bluezoom                    Credit: N/A          Debit: 1150.00      
+----------------------------------------
+Total Credits: 5571.56
+Total Debits: 1150.00
+Current Balance: 4421.56
+================================================================
+

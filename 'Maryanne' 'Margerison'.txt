@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Maryanne' 'Margerison'
+Address: '5 Blue Bill Park Way'
+City: 'Largo'
+State: 'Florida'
+PostalCode: '45419'
+
+========================================
+
+Account ID: 350
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

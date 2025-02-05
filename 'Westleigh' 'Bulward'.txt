@@ -1,0 +1,35 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Westleigh' 'Bulward'
+Address: '0 Glendale Lane'
+City: 'Mesa'
+State: 'Arizona'
+PostalCode: '79105'
+
+========================================
+
+Account ID: 720
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-12T16:34:35 Description: Quire                       Credit: N/A          Debit: 3534.00      
+Timestamp: 2018-06-23T10:35:59 Description: Twinder                     Credit: N/A          Debit: 4981.00      
+Timestamp: 2018-06-20T07:39:51 Description: Quire                       Credit: N/A          Debit: 2164.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 10679.00
+Current Balance: -10679.00
+================================================================
+
+Account ID: 753
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-10T19:06:15 Description: Meetz                       Credit: 304.66       Debit: N/A          
+Timestamp: 2018-06-09T12:15:19 Description: InnoZ                       Credit: 12916.91     Debit: N/A          
+----------------------------------------
+Total Credits: 13221.57
+Total Debits: 0.00
+Current Balance: 13221.57
+================================================================
+

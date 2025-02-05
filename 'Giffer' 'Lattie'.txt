@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Giffer' 'Lattie'
+Address: '73196 Mendota Junction'
+City: 'Washington'
+State: 'District of Columbia'
+PostalCode: '97296'
+
+========================================
+
+Account ID: 162
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-29T04:29:46 Description: Katz                        Credit: 18966.09     Debit: N/A          
+----------------------------------------
+Total Credits: 18966.09
+Total Debits: 0.00
+Current Balance: 18966.09
+================================================================
+

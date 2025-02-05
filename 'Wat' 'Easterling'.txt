@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Wat' 'Easterling'
+Address: '36414 Sutteridge Place'
+City: 'Lexington'
+State: 'Kentucky'
+PostalCode: '94544'
+
+========================================
+

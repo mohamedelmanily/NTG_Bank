@@ -1,0 +1,56 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Andrus' 'Top'
+Address: '1103 Golf View Drive'
+City: 'Roanoke'
+State: 'Virginia'
+PostalCode: '41905'
+
+========================================
+
+Account ID: 545
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-08T00:30:34 Description: Zooxo                       Credit: N/A          Debit: 1068.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 1068.00
+Current Balance: -1068.00
+================================================================
+
+Account ID: 716
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-14T18:44:20 Description: Realpoint                   Credit: 9521.04      Debit: N/A          
+Timestamp: 2018-06-02T06:30:12 Description: Dabjam                      Credit: N/A          Debit: 4832.00      
+----------------------------------------
+Total Credits: 9521.04
+Total Debits: 4832.00
+Current Balance: 4689.04
+================================================================
+
+Account ID: 763
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-06T20:02:58 Description: Mynte                       Credit: N/A          Debit: 1269.00      
+Timestamp: 2018-06-29T02:22:03 Description: Jetwire                     Credit: 14371.36     Debit: N/A          
+Timestamp: 2018-06-08T08:28:19 Description: Devify                      Credit: 22044.25     Debit: N/A          
+----------------------------------------
+Total Credits: 36415.61
+Total Debits: 1269.00
+Current Balance: 35146.61
+================================================================
+
+Account ID: 892
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-14T02:34:37 Description: Avamm                       Credit: N/A          Debit: 2815.00      
+Timestamp: 2018-06-17T19:12:03 Description: Eimbee                      Credit: 10285.95     Debit: N/A          
+----------------------------------------
+Total Credits: 10285.95
+Total Debits: 2815.00
+Current Balance: 7470.95
+================================================================
+

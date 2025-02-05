@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Abbot' 'Aujouanet'
+Address: '4403 Hoepker Terrace'
+City: 'Seattle'
+State: 'Washington'
+PostalCode: '99260'
+
+========================================
+
+Account ID: 60
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-29T07:29:01 Description: Babbleblab                  Credit: 2818.65      Debit: N/A          
+----------------------------------------
+Total Credits: 2818.65
+Total Debits: 0.00
+Current Balance: 2818.65
+================================================================
+

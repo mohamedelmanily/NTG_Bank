@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Lira' 'Shatliff'
+Address: '059 Ridgeview Circle'
+City: 'Anniston'
+State: 'Alabama'
+PostalCode: '40505'
+
+========================================
+
+Account ID: 945
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

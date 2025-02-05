@@ -1,0 +1,32 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Malvin' 'Stoving'
+Address: '90 Nancy Center'
+City: 'Cleveland'
+State: 'Ohio'
+PostalCode: '90805'
+
+========================================
+
+Account ID: 285
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-20T20:18:02 Description: Linkbuzz                    Credit: 22222.40     Debit: N/A          
+----------------------------------------
+Total Credits: 22222.40
+Total Debits: 0.00
+Current Balance: 22222.40
+================================================================
+
+Account ID: 877
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-20T22:37:36 Description: Quimba                      Credit: N/A          Debit: 4025.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 4025.00
+Current Balance: -4025.00
+================================================================
+

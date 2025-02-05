@@ -1,0 +1,32 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Lulita' 'Bassom'
+Address: '30917 Forest Dale Plaza'
+City: 'Durham'
+State: 'North Carolina'
+PostalCode: '93584'
+
+========================================
+
+Account ID: 553
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-29T14:11:12 Description: Oodoo                       Credit: N/A          Debit: 2699.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 2699.00
+Current Balance: -2699.00
+================================================================
+
+Account ID: 837
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-05T01:27:27 Description: Skimia                      Credit: N/A          Debit: 2100.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 2100.00
+Current Balance: -2100.00
+================================================================
+

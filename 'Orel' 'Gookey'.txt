@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Orel' 'Gookey'
+Address: '984 Ridgeview Crossing'
+City: 'Chicago'
+State: 'Illinois'
+PostalCode: '28263'
+
+========================================
+

@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Merrill' 'Vlasin'
+Address: '73 Mitchell Center'
+City: 'Sioux Falls'
+State: 'South Dakota'
+PostalCode: '43605'
+
+========================================
+

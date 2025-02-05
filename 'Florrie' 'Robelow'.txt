@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Florrie' 'Robelow'
+Address: '6311 Northview Parkway'
+City: 'Topeka'
+State: 'Kansas'
+PostalCode: '32204'
+
+========================================
+
+Account ID: 528
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

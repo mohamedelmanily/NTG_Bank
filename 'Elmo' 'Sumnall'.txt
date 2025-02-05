@@ -1,0 +1,32 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Elmo' 'Sumnall'
+Address: '17642 8th Lane'
+City: 'Vienna'
+State: 'Virginia'
+PostalCode: '39296'
+
+========================================
+
+Account ID: 550
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 77
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-07T15:30:42 Description: Skibox                      Credit: N/A          Debit: 3961.00      
+Timestamp: 2018-06-13T21:24:41 Description: Blogpad                     Credit: N/A          Debit: 2840.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 6801.00
+Current Balance: -6801.00
+================================================================
+

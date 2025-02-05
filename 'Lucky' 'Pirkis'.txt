@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Lucky' 'Pirkis'
+Address: '2764 Maywood Place'
+City: 'Torrance'
+State: 'California'
+PostalCode: '34665'
+
+========================================
+
+Account ID: 547
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

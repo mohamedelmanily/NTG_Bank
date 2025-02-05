@@ -1,0 +1,33 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Percival' 'Peniello'
+Address: '499 Commercial Crossing'
+City: 'Austin'
+State: 'Texas'
+PostalCode: '25775'
+
+========================================
+
+Account ID: 175
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-16T01:43:48 Description: Zoonder                     Credit: N/A          Debit: 4182.00      
+Timestamp: 2018-06-20T03:56:48 Description: Devify                      Credit: N/A          Debit: 4278.00      
+Timestamp: 2018-06-18T21:16:17 Description: Npath                       Credit: N/A          Debit: 1777.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 10237.00
+Current Balance: -10237.00
+================================================================
+
+Account ID: 301
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

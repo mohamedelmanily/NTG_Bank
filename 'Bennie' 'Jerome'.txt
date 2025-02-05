@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Bennie' 'Jerome'
+Address: '056 Macpherson Way'
+City: 'Houston'
+State: 'Texas'
+PostalCode: '79923'
+
+========================================
+

@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Dacey' 'Tomaello'
+Address: '58 Emmet Trail'
+City: 'Sacramento'
+State: 'California'
+PostalCode: '92191'
+
+========================================
+
+Account ID: 539
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-23T04:00:01 Description: Tazz                        Credit: 23333.78     Debit: N/A          
+Timestamp: 2018-06-08T10:34:53 Description: Buzzdog                     Credit: N/A          Debit: 4809.00      
+----------------------------------------
+Total Credits: 23333.78
+Total Debits: 4809.00
+Current Balance: 18524.78
+================================================================
+

@@ -1,0 +1,42 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Lonny' 'De Cruce'
+Address: '12 Shoshone Alley'
+City: 'Amarillo'
+State: 'Texas'
+PostalCode: '60646'
+
+========================================
+
+Account ID: 583
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-08T13:18 Description: Myworks                     Credit: 15633.65     Debit: N/A          
+----------------------------------------
+Total Credits: 15633.65
+Total Debits: 0.00
+Current Balance: 15633.65
+================================================================
+
+Account ID: 966
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-21T14:10:36 Description: Devify                      Credit: 19769.00     Debit: N/A          
+Timestamp: 2018-06-21T03:19:34 Description: Quatz                       Credit: N/A          Debit: 2300.00      
+----------------------------------------
+Total Credits: 19769.00
+Total Debits: 2300.00
+Current Balance: 17469.00
+================================================================
+
+Account ID: 974
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

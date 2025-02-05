@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Sallyanne' 'Labrone'
+Address: '9 Graceland Street'
+City: 'New Haven'
+State: 'Connecticut'
+PostalCode: '89714'
+
+========================================
+

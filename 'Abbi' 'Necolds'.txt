@@ -1,0 +1,34 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Abbi' 'Necolds'
+Address: '48141 Texas Center'
+City: 'Saint Paul'
+State: 'Minnesota'
+PostalCode: '14683'
+
+========================================
+
+Account ID: 347
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-14T21:33:19 Description: Fivebridge                  Credit: N/A          Debit: 2106.00      
+Timestamp: 2018-06-15T16:26:16 Description: Janyx                       Credit: 5916.66      Debit: N/A          
+----------------------------------------
+Total Credits: 5916.66
+Total Debits: 2106.00
+Current Balance: 3810.66
+================================================================
+
+Account ID: 712
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-09T03:27:38 Description: LiveZ                       Credit: 10834.42     Debit: N/A          
+Timestamp: 2018-06-05T05:21 Description: Meetz                       Credit: 6856.41      Debit: N/A          
+----------------------------------------
+Total Credits: 17690.83
+Total Debits: 0.00
+Current Balance: 17690.83
+================================================================
+

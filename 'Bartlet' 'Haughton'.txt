@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Bartlet' 'Haughton'
+Address: '7186 Lukken Pass'
+City: 'Washington'
+State: 'District of Columbia'
+PostalCode: '40298'
+
+========================================
+
+Account ID: 891
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-24T15:01:31 Description: Demimbu                     Credit: N/A          Debit: 1718.00      
+Timestamp: 2018-06-12T01:54:45 Description: Jaxworks                    Credit: N/A          Debit: 3977.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 5695.00
+Current Balance: -5695.00
+================================================================
+

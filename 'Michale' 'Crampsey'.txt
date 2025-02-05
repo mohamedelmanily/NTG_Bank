@@ -1,0 +1,31 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Michale' 'Crampsey'
+Address: '7 Bartillon Alley'
+City: 'Visalia'
+State: 'California'
+PostalCode: '77206'
+
+========================================
+
+Account ID: 490
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 333
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-11T08:48:33 Description: Zoombeat                    Credit: N/A          Debit: 738.00       
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 738.00
+Current Balance: -738.00
+================================================================
+

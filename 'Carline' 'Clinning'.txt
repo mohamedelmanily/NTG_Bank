@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Carline' 'Clinning'
+Address: '845 Service Street'
+City: 'Atlanta'
+State: 'Georgia'
+PostalCode: '33661'
+
+========================================
+
+Account ID: 124
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

@@ -1,0 +1,24 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Allyn' 'Tong'
+Address: '20145 Fuller Lane'
+City: 'Dallas'
+State: 'Texas'
+PostalCode: '63104'
+
+========================================
+
+Account ID: 737
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-19T14:01:19 Description: Edgeify                     Credit: N/A          Debit: 911.00       
+Timestamp: 2018-06-28T10:25:37 Description: Jazzy                       Credit: N/A          Debit: 4267.00      
+Timestamp: 2018-06-04T13:16:56 Description: Devify                      Credit: N/A          Debit: 1814.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 6992.00
+Current Balance: -6992.00
+================================================================
+

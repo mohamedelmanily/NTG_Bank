@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Rollin' 'Orpen'
+Address: '13 Forest Way'
+City: 'Grand Forks'
+State: 'North Dakota'
+PostalCode: '24048'
+
+========================================
+
+Account ID: 291
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

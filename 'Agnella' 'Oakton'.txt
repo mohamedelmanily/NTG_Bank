@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Agnella' 'Oakton'
+Address: '9 Declaration Plaza'
+City: 'Columbus'
+State: 'Ohio'
+PostalCode: '17405'
+
+========================================
+
+Account ID: 894
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

@@ -1,0 +1,35 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Melina' 'M''cowis'
+Address: '286 Dapin Alley'
+City: 'Columbus'
+State: 'Georgia'
+PostalCode: '92662'
+
+========================================
+
+Account ID: 886
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-20T14:58:34 Description: Eadel                       Credit: N/A          Debit: 4900.00      
+Timestamp: 2018-06-15T10:47:30 Description: Cogibox                     Credit: N/A          Debit: 4706.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 9606.00
+Current Balance: -9606.00
+================================================================
+
+Account ID: 997
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-22T23:38:28 Description: Meeveo                      Credit: N/A          Debit: 2262.00      
+Timestamp: 2018-06-18T00:19:16 Description: Meeveo                      Credit: N/A          Debit: 3638.00      
+Timestamp: 2018-06-06T13:35:20 Description: Linkbridge                  Credit: N/A          Debit: 547.00       
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 6447.00
+Current Balance: -6447.00
+================================================================
+

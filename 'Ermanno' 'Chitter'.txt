@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Ermanno' 'Chitter'
+Address: '4991 Village Junction'
+City: 'Wichita'
+State: 'Kansas'
+PostalCode: '91131'
+
+========================================
+
+Account ID: 419
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

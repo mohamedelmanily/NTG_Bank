@@ -3,9 +3,10 @@ package com.example.NTG_Bank.batchprocessing.writer;
 import com.example.NTG_Bank.entity.Transaction;
 import org.springframework.batch.item.database.JdbcBatchItemWriter;
 import org.springframework.batch.item.database.builder.JdbcBatchItemWriterBuilder;
+import org.springframework.stereotype.Component;
 
 import javax.sql.DataSource;
-
+@Component
 public class TransactionItemWriter {
     public JdbcBatchItemWriter<Transaction> writer(DataSource dataSource){
         return new JdbcBatchItemWriterBuilder<Transaction>()

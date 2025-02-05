@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Katheryn' 'Pyburn'
+Address: '89721 Amoth Plaza'
+City: 'Colorado Springs'
+State: 'Colorado'
+PostalCode: '48930'
+
+========================================
+

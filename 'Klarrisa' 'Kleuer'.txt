@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Klarrisa' 'Kleuer'
+Address: '56464 Waxwing Lane'
+City: 'Saint Louis'
+State: 'Missouri'
+PostalCode: '10175'
+
+========================================
+

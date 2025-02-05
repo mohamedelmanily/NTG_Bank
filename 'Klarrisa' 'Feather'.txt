@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Klarrisa' 'Feather'
+Address: '4251 Surrey Trail'
+City: 'Houston'
+State: 'Texas'
+PostalCode: '49444'
+
+========================================
+
+Account ID: 171
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-28T21:05:34 Description: Voomm                       Credit: N/A          Debit: 69.00        
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 69.00
+Current Balance: -69.00
+================================================================
+

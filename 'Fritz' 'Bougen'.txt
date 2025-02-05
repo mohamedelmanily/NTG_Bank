@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Fritz' 'Bougen'
+Address: '2736 Iowa Pass'
+City: 'Alexandria'
+State: 'Virginia'
+PostalCode: '27605'
+
+========================================
+

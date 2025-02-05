@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Johnathan' 'McCheyne'
+Address: '16882 Alpine Alley'
+City: 'Lexington'
+State: 'Kentucky'
+PostalCode: '30316'
+
+========================================
+

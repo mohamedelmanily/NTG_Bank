@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Christabella' 'Bowdon'
+Address: '32 Butternut Drive'
+City: 'Saint Louis'
+State: 'Missouri'
+PostalCode: '34745'
+
+========================================
+

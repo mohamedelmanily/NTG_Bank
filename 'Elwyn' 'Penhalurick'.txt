@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Elwyn' 'Penhalurick'
+Address: '7 Arkansas Point'
+City: 'Roanoke'
+State: 'Virginia'
+PostalCode: '68110'
+
+========================================
+
+Account ID: 514
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

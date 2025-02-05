@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Josey' 'Walkey'
+Address: '29 Nancy Junction'
+City: 'Charlottesville'
+State: 'Virginia'
+PostalCode: '94705'
+
+========================================
+

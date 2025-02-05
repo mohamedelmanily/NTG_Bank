@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Sheeree' 'Millwater'
+Address: '983 Elgar Road'
+City: 'Philadelphia'
+State: 'Pennsylvania'
+PostalCode: '94616'
+
+========================================
+
+Account ID: 884
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-01T23:07:48 Description: Wordtune                    Credit: N/A          Debit: 245.00       
+Timestamp: 2018-06-15T04:10:08 Description: Livetube                    Credit: 16946.39     Debit: N/A          
+----------------------------------------
+Total Credits: 16946.39
+Total Debits: 245.00
+Current Balance: 16701.39
+================================================================
+

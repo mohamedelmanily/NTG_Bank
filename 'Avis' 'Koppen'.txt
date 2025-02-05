@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Avis' 'Koppen'
+Address: '59329 Dryden Court'
+City: 'Raleigh'
+State: 'North Carolina'
+PostalCode: '06816'
+
+========================================
+
+Account ID: 9
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-02T01:12:04 Description: Zoozzy                      Credit: N/A          Debit: 3387.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 3387.00
+Current Balance: -3387.00
+================================================================
+

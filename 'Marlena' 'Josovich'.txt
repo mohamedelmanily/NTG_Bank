@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Marlena' 'Josovich'
+Address: '85396 Graedel Avenue'
+City: 'Santa Rosa'
+State: 'California'
+PostalCode: '97075'
+
+========================================
+

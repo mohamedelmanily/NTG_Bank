@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Giuseppe' 'Lowmass'
+Address: '29 6th Plaza'
+City: 'Irving'
+State: 'Texas'
+PostalCode: '30301'
+
+========================================
+

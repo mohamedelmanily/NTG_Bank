@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Herby' 'Brighty'
+Address: '89 Crownhardt Point'
+City: 'Baton Rouge'
+State: 'Louisiana'
+PostalCode: '77305'
+
+========================================
+
+Account ID: 993
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

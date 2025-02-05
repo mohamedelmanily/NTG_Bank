@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Alvera' 'Peddar'
+Address: '7 Westerfield Street'
+City: 'Washington'
+State: 'District of Columbia'
+PostalCode: '94705'
+
+========================================
+
+Account ID: 131
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-24T03:46:15 Description: Bluezoom                    Credit: N/A          Debit: 1119.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 1119.00
+Current Balance: -1119.00
+================================================================
+

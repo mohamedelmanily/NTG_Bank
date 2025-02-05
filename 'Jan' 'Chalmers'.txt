@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Jan' 'Chalmers'
+Address: '42 Raven Center'
+City: 'Miami'
+State: 'Florida'
+PostalCode: '10310'
+
+========================================
+

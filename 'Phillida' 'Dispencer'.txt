@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Phillida' 'Dispencer'
+Address: '6389 Merry Way'
+City: 'Dallas'
+State: 'Texas'
+PostalCode: '64144'
+
+========================================
+

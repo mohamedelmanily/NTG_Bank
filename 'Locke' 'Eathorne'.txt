@@ -1,0 +1,24 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Locke' 'Eathorne'
+Address: '32334 Myrtle Drive'
+City: 'Houston'
+State: 'Texas'
+PostalCode: '02453'
+
+========================================
+
+Account ID: 390
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-23T12:12:33 Description: Tekfly                      Credit: 13992.77     Debit: N/A          
+Timestamp: 2018-06-24T08:12:13 Description: Myworks                     Credit: 5069.50      Debit: N/A          
+Timestamp: 2018-06-12T01:16:55 Description: Gigazoom                    Credit: 8942.21      Debit: N/A          
+----------------------------------------
+Total Credits: 28004.48
+Total Debits: 0.00
+Current Balance: 28004.48
+================================================================
+

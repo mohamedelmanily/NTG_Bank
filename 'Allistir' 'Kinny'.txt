@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Allistir' 'Kinny'
+Address: '53889 Jackson Trail'
+City: 'Los Angeles'
+State: 'California'
+PostalCode: '94132'
+
+========================================
+

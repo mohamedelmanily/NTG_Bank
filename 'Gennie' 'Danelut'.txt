@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Gennie' 'Danelut'
+Address: '68 Fairfield Street'
+City: 'Portsmouth'
+State: 'New Hampshire'
+PostalCode: '40250'
+
+========================================
+
+Account ID: 698
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

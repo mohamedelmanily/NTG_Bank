@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Garfield' 'McGoogan'
+Address: '9 Waxwing Place'
+City: 'Wichita'
+State: 'Kansas'
+PostalCode: '55188'
+
+========================================
+
+Account ID: 422
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

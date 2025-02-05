@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Dorella' 'Debrett'
+Address: '4 Oxford Terrace'
+City: 'Charleston'
+State: 'South Carolina'
+PostalCode: '66276'
+
+========================================
+

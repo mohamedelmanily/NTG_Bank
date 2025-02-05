@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Kennith' 'Tant'
+Address: '9942 Helena Park'
+City: 'Muskegon'
+State: 'Michigan'
+PostalCode: '20530'
+
+========================================
+

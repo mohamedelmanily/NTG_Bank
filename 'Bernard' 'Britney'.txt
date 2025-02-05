@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Bernard' 'Britney'
+Address: '3 Clove Circle'
+City: 'Homestead'
+State: 'Florida'
+PostalCode: '17110'
+
+========================================
+

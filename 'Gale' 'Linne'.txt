@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Gale' 'Linne'
+Address: '6269 Nevada Street'
+City: 'Washington'
+State: 'District of Columbia'
+PostalCode: '95813'
+
+========================================
+
+Account ID: 116
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

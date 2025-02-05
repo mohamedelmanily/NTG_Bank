@@ -1,0 +1,31 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Silvanus' 'Swaisland'
+Address: '06 Nobel Center'
+City: 'Kansas City'
+State: 'Missouri'
+PostalCode: '94137'
+
+========================================
+
+Account ID: 114
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 972
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-09T00:23:17 Description: Zoonoodle                   Credit: N/A          Debit: 585.00       
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 585.00
+Current Balance: -585.00
+================================================================
+

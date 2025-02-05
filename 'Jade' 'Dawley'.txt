@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Jade' 'Dawley'
+Address: '92213 Express Park'
+City: 'Virginia Beach'
+State: 'Virginia'
+PostalCode: '17622'
+
+========================================
+

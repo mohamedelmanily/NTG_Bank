@@ -1,0 +1,31 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Wilhelm' 'Searchfield'
+Address: '31372 Ridgeway Street'
+City: 'Miami'
+State: 'Florida'
+PostalCode: '45432'
+
+========================================
+
+Account ID: 509
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 23
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-18T10:09:22 Description: Eare                        Credit: N/A          Debit: 1717.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 1717.00
+Current Balance: -1717.00
+================================================================
+

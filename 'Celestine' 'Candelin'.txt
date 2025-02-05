@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Celestine' 'Candelin'
+Address: '21351 Stuart Street'
+City: 'Roanoke'
+State: 'Virginia'
+PostalCode: '30911'
+
+========================================
+
+Account ID: 453
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-18T20:56:27 Description: Skibox                      Credit: 162.14       Debit: N/A          
+Timestamp: 2018-06-10T22:06:28 Description: Buzzbean                    Credit: N/A          Debit: 909.00       
+----------------------------------------
+Total Credits: 162.14
+Total Debits: 909.00
+Current Balance: -746.86
+================================================================
+

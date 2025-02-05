@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Noemi' 'Pickburn'
+Address: '1035 Larry Way'
+City: 'Aurora'
+State: 'Illinois'
+PostalCode: '30351'
+
+========================================
+

@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Thatch' 'Barbrook'
+Address: '27 Vermont Place'
+City: 'San Jose'
+State: 'California'
+PostalCode: '76096'
+
+========================================
+
+Account ID: 534
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-09T07:05:52 Description: Buzzster                    Credit: N/A          Debit: 4849.00      
+Timestamp: 2018-06-07T22:05:08 Description: Reallinks                   Credit: N/A          Debit: 3089.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 7938.00
+Current Balance: -7938.00
+================================================================
+

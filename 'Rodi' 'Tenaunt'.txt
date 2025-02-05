@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Rodi' 'Tenaunt'
+Address: '874 Anderson Pass'
+City: 'Richmond'
+State: 'Virginia'
+PostalCode: '44329'
+
+========================================
+

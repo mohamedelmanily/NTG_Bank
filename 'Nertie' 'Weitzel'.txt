@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Nertie' 'Weitzel'
+Address: '90983 Talisman Circle'
+City: 'Charleston'
+State: 'West Virginia'
+PostalCode: '98042'
+
+========================================
+
+Account ID: 912
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-12T20:47:01 Description: Quinu                       Credit: 14962.90     Debit: N/A          
+Timestamp: 2018-06-16T01:12:39 Description: Bluezoom                    Credit: 5797.22      Debit: N/A          
+----------------------------------------
+Total Credits: 20760.12
+Total Debits: 0.00
+Current Balance: 20760.12
+================================================================
+

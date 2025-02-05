@@ -1,0 +1,31 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Ezechiel' 'Southerton'
+Address: '26 Bayside Court'
+City: 'Berkeley'
+State: 'California'
+PostalCode: '28410'
+
+========================================
+
+Account ID: 580
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 856
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-18T09:23:40 Description: Mynte                       Credit: N/A          Debit: 268.00       
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 268.00
+Current Balance: -268.00
+================================================================
+

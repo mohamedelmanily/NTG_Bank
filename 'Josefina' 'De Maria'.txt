@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Josefina' 'De Maria'
+Address: '05 Bobwhite Park'
+City: 'Bakersfield'
+State: 'California'
+PostalCode: '43605'
+
+========================================
+
+Account ID: 209
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-04T05:40:25 Description: Youopia                     Credit: N/A          Debit: 3662.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 3662.00
+Current Balance: -3662.00
+================================================================
+

@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Berkly' 'Maggill''Andreis'
+Address: '04 Hollow Ridge Drive'
+City: 'Fort Worth'
+State: 'Texas'
+PostalCode: '15286'
+
+========================================
+
+Account ID: 294
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Ase' 'Gain'
+Address: '5 Fairfield Place'
+City: 'Bowie'
+State: 'Maryland'
+PostalCode: '36670'
+
+========================================
+
+Account ID: 265
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-02T13:33:20 Description: Abata                       Credit: N/A          Debit: 836.00       
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 836.00
+Current Balance: -836.00
+================================================================
+

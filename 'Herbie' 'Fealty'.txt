@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Herbie' 'Fealty'
+Address: '1 Hansons Way'
+City: 'Carlsbad'
+State: 'California'
+PostalCode: '19151'
+
+========================================
+
+Account ID: 61
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-01T03:17:14 Description: Voonte                      Credit: N/A          Debit: 4653.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 4653.00
+Current Balance: -4653.00
+================================================================
+

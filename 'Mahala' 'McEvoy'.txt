@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Mahala' 'McEvoy'
+Address: '17 Debs Alley'
+City: 'Naperville'
+State: 'Illinois'
+PostalCode: '36605'
+
+========================================
+
+Account ID: 689
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-26T19:30:16 Description: Jamia                       Credit: N/A          Debit: 3056.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 3056.00
+Current Balance: -3056.00
+================================================================
+

@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Elke' 'Leander'
+Address: '5978 Manley Hill'
+City: 'Port Charlotte'
+State: 'Florida'
+PostalCode: '89714'
+
+========================================
+
+Account ID: 536
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-05T16:55:12 Description: Kayveo                      Credit: 23531.89     Debit: N/A          
+----------------------------------------
+Total Credits: 23531.89
+Total Debits: 0.00
+Current Balance: 23531.89
+================================================================
+

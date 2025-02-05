@@ -1,0 +1,24 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Giovanni' 'Schirak'
+Address: '82 Marquette Way'
+City: 'Nashville'
+State: 'Tennessee'
+PostalCode: '28230'
+
+========================================
+
+Account ID: 469
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-03T00:47:19 Description: Devify                      Credit: N/A          Debit: 1840.00      
+Timestamp: 2018-06-08T08:50:42 Description: Viva                        Credit: N/A          Debit: 4147.00      
+Timestamp: 2018-06-28T00:05:32 Description: Rhyzio                      Credit: 2290.65      Debit: N/A          
+----------------------------------------
+Total Credits: 2290.65
+Total Debits: 5987.00
+Current Balance: -3696.35
+================================================================
+

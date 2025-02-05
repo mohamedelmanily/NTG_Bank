@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Jodee' 'Ormistone'
+Address: '6 Tennyson Terrace'
+City: 'Topeka'
+State: 'Kansas'
+PostalCode: '55172'
+
+========================================
+
+Account ID: 218
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Celia' 'Dumigan'
+Address: '2452 Vernon Pass'
+City: 'Baltimore'
+State: 'Maryland'
+PostalCode: '17140'
+
+========================================
+

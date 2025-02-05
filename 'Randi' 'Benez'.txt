@@ -1,0 +1,31 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Randi' 'Benez'
+Address: '0574 Wayridge Pass'
+City: 'Ann Arbor'
+State: 'Michigan'
+PostalCode: '02208'
+
+========================================
+
+Account ID: 112
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 980
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-02T12:46:04 Description: Flipstorm                   Credit: N/A          Debit: 3455.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 3455.00
+Current Balance: -3455.00
+================================================================
+

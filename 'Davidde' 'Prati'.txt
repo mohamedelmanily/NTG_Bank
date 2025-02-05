@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Davidde' 'Prati'
+Address: '228 Mcguire Pass'
+City: 'Harrisburg'
+State: 'Pennsylvania'
+PostalCode: '70883'
+
+========================================
+

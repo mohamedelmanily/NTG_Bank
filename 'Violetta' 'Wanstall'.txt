@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Violetta' 'Wanstall'
+Address: '1 Vahlen Terrace'
+City: 'Flushing'
+State: 'New York'
+PostalCode: '60619'
+
+========================================
+

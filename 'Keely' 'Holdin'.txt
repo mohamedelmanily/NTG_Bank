@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Keely' 'Holdin'
+Address: '83664 Bowman Street'
+City: 'New York City'
+State: 'New York'
+PostalCode: '48076'
+
+========================================
+

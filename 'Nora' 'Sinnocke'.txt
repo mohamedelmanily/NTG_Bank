@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Nora' 'Sinnocke'
+Address: '22 Merry Trail'
+City: 'Jacksonville'
+State: 'Florida'
+PostalCode: '37931'
+
+========================================
+

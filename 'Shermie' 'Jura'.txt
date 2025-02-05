@@ -1,0 +1,31 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Shermie' 'Jura'
+Address: '4800 Basil Drive'
+City: 'San Jose'
+State: 'California'
+PostalCode: '63150'
+
+========================================
+
+Account ID: 48
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 295
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-01T03:40:59 Description: Gabtype                     Credit: 9697.22      Debit: N/A          
+----------------------------------------
+Total Credits: 9697.22
+Total Debits: 0.00
+Current Balance: 9697.22
+================================================================
+

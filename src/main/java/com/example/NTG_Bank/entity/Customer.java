@@ -29,7 +29,7 @@ public class Customer {
     private String workPhone;
 
 //Relation from Customer to Account
-    @OneToMany(mappedBy = "customer" ,cascade = CascadeType.ALL, orphanRemoval = true)
+    @OneToMany(mappedBy = "customer" ,cascade = CascadeType.REFRESH, orphanRemoval = true)
     private List<Account> accounts;
 
 

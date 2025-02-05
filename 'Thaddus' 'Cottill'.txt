@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Thaddus' 'Cottill'
+Address: '61 Green Ridge Crossing'
+City: 'San Rafael'
+State: 'California'
+PostalCode: '27425'
+
+========================================
+
+Account ID: 693
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Jeanine' 'Caddan'
+Address: '1 Buell Center'
+City: 'Las Vegas'
+State: 'Nevada'
+PostalCode: '66642'
+
+========================================
+

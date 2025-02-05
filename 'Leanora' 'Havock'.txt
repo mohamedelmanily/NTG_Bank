@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Leanora' 'Havock'
+Address: '9 Village Green Terrace'
+City: 'Montgomery'
+State: 'Alabama'
+PostalCode: '53205'
+
+========================================
+
+Account ID: 166
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-29T14:27:50 Description: Topicware                   Credit: N/A          Debit: 3220.00      
+Timestamp: 2018-06-09T10:12:52 Description: Rhynoodle                   Credit: N/A          Debit: 851.00       
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 4071.00
+Current Balance: -4071.00
+================================================================
+

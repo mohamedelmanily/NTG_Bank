@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Mora' 'Grandisson'
+Address: '6 Packers Junction'
+City: 'Cleveland'
+State: 'Ohio'
+PostalCode: '33034'
+
+========================================
+

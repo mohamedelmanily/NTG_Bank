@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Winfield' 'Wearn'
+Address: '2 Bunting Way'
+City: 'Sioux City'
+State: 'Iowa'
+PostalCode: '01654'
+
+========================================
+

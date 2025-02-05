@@ -1,0 +1,31 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Rossie' 'Rubinowicz'
+Address: '43 Utah Point'
+City: 'Worcester'
+State: 'Massachusetts'
+PostalCode: '20520'
+
+========================================
+
+Account ID: 99
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 592
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-07T03:25:28 Description: Blogtags                    Credit: N/A          Debit: 2961.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 2961.00
+Current Balance: -2961.00
+================================================================
+

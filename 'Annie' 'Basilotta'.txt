@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Annie' 'Basilotta'
+Address: '128 Thompson Drive'
+City: 'Las Vegas'
+State: 'Nevada'
+PostalCode: '36622'
+
+========================================
+

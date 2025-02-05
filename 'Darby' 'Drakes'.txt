@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Darby' 'Drakes'
+Address: '2 Havey Trail'
+City: 'Dallas'
+State: 'Texas'
+PostalCode: '25313'
+
+========================================
+
+Account ID: 859
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-29T17:50:08 Description: Babblestorm                 Credit: N/A          Debit: 615.00       
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 615.00
+Current Balance: -615.00
+================================================================
+

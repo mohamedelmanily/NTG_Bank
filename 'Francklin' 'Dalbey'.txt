@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Francklin' 'Dalbey'
+Address: '83875 Monterey Drive'
+City: 'Lubbock'
+State: 'Texas'
+PostalCode: '46247'
+
+========================================
+

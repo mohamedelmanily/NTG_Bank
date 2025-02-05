@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Wye' 'Howitt'
+Address: '535 Kropf Circle'
+City: 'Charlotte'
+State: 'North Carolina'
+PostalCode: '31605'
+
+========================================
+
+Account ID: 173
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

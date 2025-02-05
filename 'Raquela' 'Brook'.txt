@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Raquela' 'Brook'
+Address: '99 Bay Lane'
+City: 'Hampton'
+State: 'Virginia'
+PostalCode: '27635'
+
+========================================
+
+Account ID: 812
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-19T22:27:41 Description: Blogspan                    Credit: N/A          Debit: 4305.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 4305.00
+Current Balance: -4305.00
+================================================================
+

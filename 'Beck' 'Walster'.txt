@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Beck' 'Walster'
+Address: '09934 Fieldstone Point'
+City: 'Sacramento'
+State: 'California'
+PostalCode: '77234'
+
+========================================
+
+Account ID: 808
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-09T11:12:22 Description: Shuffledrive                Credit: 20855.79     Debit: N/A          
+Timestamp: 2018-06-25T09:36:37 Description: Bubblebox                   Credit: N/A          Debit: 2260.00      
+----------------------------------------
+Total Credits: 20855.79
+Total Debits: 2260.00
+Current Balance: 18595.79
+================================================================
+

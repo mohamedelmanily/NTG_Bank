@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Vassili' 'Blasio'
+Address: '28247 Dwight Junction'
+City: 'Orlando'
+State: 'Florida'
+PostalCode: '29403'
+
+========================================
+
+Account ID: 492
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-29T21:53:05 Description: Rhyloo                      Credit: 5744.65      Debit: N/A          
+----------------------------------------
+Total Credits: 5744.65
+Total Debits: 0.00
+Current Balance: 5744.65
+================================================================
+

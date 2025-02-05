@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Dene' 'Beushaw'
+Address: '5 Brickson Park Court'
+City: 'Washington'
+State: 'District of Columbia'
+PostalCode: '33023'
+
+========================================
+
+Account ID: 49
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

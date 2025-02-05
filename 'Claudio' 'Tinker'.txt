@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Claudio' 'Tinker'
+Address: '646 Ryan Hill'
+City: 'Kissimmee'
+State: 'Florida'
+PostalCode: '20883'
+
+========================================
+

@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Payton' 'Klima'
+Address: '93550 Express Drive'
+City: 'Carson City'
+State: 'Nevada'
+PostalCode: '77245'
+
+========================================
+
+Account ID: 396
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-20T01:47:53 Description: Mymm                        Credit: N/A          Debit: 2160.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 2160.00
+Current Balance: -2160.00
+================================================================
+

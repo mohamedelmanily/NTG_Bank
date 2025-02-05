@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Jandy' 'Egle of Germany'
+Address: '75 Grim Trail'
+City: 'Wichita'
+State: 'Kansas'
+PostalCode: '77245'
+
+========================================
+

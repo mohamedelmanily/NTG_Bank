@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Shalna' 'Toulch'
+Address: '18246 Towne Road'
+City: 'Tacoma'
+State: 'Washington'
+PostalCode: '19151'
+
+========================================
+

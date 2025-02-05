@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Rikki' 'Grovier'
+Address: '138 Esker Parkway'
+City: 'Glendale'
+State: 'California'
+PostalCode: '38109'
+
+========================================
+
+Account ID: 880
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-24T20:18:23 Description: Demizz                      Credit: N/A          Debit: 1009.00      
+Timestamp: 2018-06-13T12:05:44 Description: Feedfish                    Credit: N/A          Debit: 3947.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 4956.00
+Current Balance: -4956.00
+================================================================
+

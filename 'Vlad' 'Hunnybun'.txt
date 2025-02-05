@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Vlad' 'Hunnybun'
+Address: '3355 Oxford Hill'
+City: 'Joliet'
+State: 'Illinois'
+PostalCode: '73071'
+
+========================================
+
+Account ID: 935
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-20T00:06:27 Description: Lazzy                       Credit: 22814.96     Debit: N/A          
+----------------------------------------
+Total Credits: 22814.96
+Total Debits: 0.00
+Current Balance: 22814.96
+================================================================
+

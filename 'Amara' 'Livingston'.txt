@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Amara' 'Livingston'
+Address: '05981 Lerdahl Trail'
+City: 'Richmond'
+State: 'Virginia'
+PostalCode: '50330'
+
+========================================
+

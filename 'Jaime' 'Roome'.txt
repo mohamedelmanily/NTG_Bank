@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Jaime' 'Roome'
+Address: '03 Cody Court'
+City: 'Indianapolis'
+State: 'Indiana'
+PostalCode: '14619'
+
+========================================
+

@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Sofie' 'Scudders'
+Address: '7 Nevada Point'
+City: 'Trenton'
+State: 'New Jersey'
+PostalCode: '67260'
+
+========================================
+

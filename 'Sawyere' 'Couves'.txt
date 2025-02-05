@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Sawyere' 'Couves'
+Address: '35 Roth Hill'
+City: 'Concord'
+State: 'California'
+PostalCode: '19196'
+
+========================================
+
+Account ID: 792
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-18T17:37 Description: Gabcube                     Credit: N/A          Debit: 1895.00      
+Timestamp: 2018-06-23T22:45:17 Description: Livepath                    Credit: 4307.63      Debit: N/A          
+----------------------------------------
+Total Credits: 4307.63
+Total Debits: 1895.00
+Current Balance: 2412.63
+================================================================
+

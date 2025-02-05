@@ -1,0 +1,44 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Ella' 'Dictus'
+Address: '2 International Plaza'
+City: 'New Orleans'
+State: 'Louisiana'
+PostalCode: '90040'
+
+========================================
+
+Account ID: 944
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-24T16:18:08 Description: Katz                        Credit: N/A          Debit: 4595.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 4595.00
+Current Balance: -4595.00
+================================================================
+
+Account ID: 15
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-25T23:19:37 Description: Tanoodle                    Credit: N/A          Debit: 4114.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 4114.00
+Current Balance: -4114.00
+================================================================
+
+Account ID: 365
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-03T18:23:22 Description: Tekfly                      Credit: N/A          Debit: 3672.00      
+Timestamp: 2018-06-01T13:20:22 Description: Photofeed                   Credit: N/A          Debit: 686.00       
+Timestamp: 2018-06-09T16:08:07 Description: Jazzy                       Credit: N/A          Debit: 1019.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 5377.00
+Current Balance: -5377.00
+================================================================
+

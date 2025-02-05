@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Ham' 'Bugler'
+Address: '774 Forest Park'
+City: 'Lima'
+State: 'Ohio'
+PostalCode: '15210'
+
+========================================
+

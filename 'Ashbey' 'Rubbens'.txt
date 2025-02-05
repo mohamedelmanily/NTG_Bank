@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Ashbey' 'Rubbens'
+Address: '1 Westridge Park'
+City: 'Corona'
+State: 'California'
+PostalCode: '29905'
+
+========================================
+
+Account ID: 591
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-17T13:31:45 Description: Flashpoint                  Credit: 458.15       Debit: N/A          
+----------------------------------------
+Total Credits: 458.15
+Total Debits: 0.00
+Current Balance: 458.15
+================================================================
+

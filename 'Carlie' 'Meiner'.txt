@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Carlie' 'Meiner'
+Address: '660 Dakota Court'
+City: 'Boston'
+State: 'Massachusetts'
+PostalCode: '29240'
+
+========================================
+

@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Otho' 'Fourmy'
+Address: '8 Del Sol Park'
+City: 'El Paso'
+State: 'Texas'
+PostalCode: '33153'
+
+========================================
+

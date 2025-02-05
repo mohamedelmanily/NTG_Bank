@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Reinald' 'Grabban'
+Address: '933 Dapin Hill'
+City: 'Tampa'
+State: 'Florida'
+PostalCode: '29610'
+
+========================================
+
+Account ID: 579
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-08T06:52:30 Description: Kwimbee                     Credit: 22140.66     Debit: N/A          
+----------------------------------------
+Total Credits: 22140.66
+Total Debits: 0.00
+Current Balance: 22140.66
+================================================================
+

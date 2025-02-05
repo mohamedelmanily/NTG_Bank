@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Vasili' 'Pineaux'
+Address: '31 Farragut Avenue'
+City: 'Seminole'
+State: 'Florida'
+PostalCode: '92555'
+
+========================================
+
+Account ID: 835
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-07T22:47:35 Description: Jaxnation                   Credit: N/A          Debit: 3308.00      
+Timestamp: 2018-06-05T20:06:32 Description: Thoughtstorm                Credit: N/A          Debit: 1529.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 4837.00
+Current Balance: -4837.00
+================================================================
+

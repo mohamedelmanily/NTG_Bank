@@ -1,0 +1,24 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Nicholas' 'Durman'
+Address: '026 Mayer Trail'
+City: 'Roanoke'
+State: 'Virginia'
+PostalCode: '49018'
+
+========================================
+
+Account ID: 961
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-10T15:57:55 Description: Podcat                      Credit: 9809.27      Debit: N/A          
+Timestamp: 2018-06-10T20:59:42 Description: Gevee                       Credit: N/A          Debit: 3721.00      
+Timestamp: 2018-06-08T16:41:15 Description: Dabjam                      Credit: 10952.72     Debit: N/A          
+----------------------------------------
+Total Credits: 20761.99
+Total Debits: 3721.00
+Current Balance: 17040.99
+================================================================
+

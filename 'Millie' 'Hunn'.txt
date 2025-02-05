@@ -1,0 +1,45 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Millie' 'Hunn'
+Address: '51061 Gale Point'
+City: 'Racine'
+State: 'Wisconsin'
+PostalCode: '97405'
+
+========================================
+
+Account ID: 280
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-27T09:36:13 Description: Rhyzio                      Credit: 598.67       Debit: N/A          
+----------------------------------------
+Total Credits: 598.67
+Total Debits: 0.00
+Current Balance: 598.67
+================================================================
+
+Account ID: 667
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-13T22:34:54 Description: Feedfish                    Credit: N/A          Debit: 2916.00      
+Timestamp: 2018-06-13T08:39:56 Description: Gabtype                     Credit: 21165.48     Debit: N/A          
+----------------------------------------
+Total Credits: 21165.48
+Total Debits: 2916.00
+Current Balance: 18249.48
+================================================================
+
+Account ID: 907
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-20T06:45:19 Description: Quamba                      Credit: N/A          Debit: 560.00       
+Timestamp: 2018-06-09T05:08:01 Description: Tagfeed                     Credit: N/A          Debit: 4234.00      
+Timestamp: 2018-06-02T02:36:26 Description: Oba                         Credit: 17813.70     Debit: N/A          
+----------------------------------------
+Total Credits: 17813.70
+Total Debits: 4794.00
+Current Balance: 13019.70
+================================================================
+

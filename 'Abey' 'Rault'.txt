@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Abey' 'Rault'
+Address: '032 Hermina Pass'
+City: 'Dallas'
+State: 'Texas'
+PostalCode: '46852'
+
+========================================
+

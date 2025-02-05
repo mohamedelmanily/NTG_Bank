@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Bronson' 'Dericut'
+Address: '74176 Anniversary Point'
+City: 'Washington'
+State: 'District of Columbia'
+PostalCode: '01610'
+
+========================================
+

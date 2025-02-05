@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Immanuel' 'Szymonwicz'
+Address: '9342 Thierer Plaza'
+City: 'New Castle'
+State: 'Pennsylvania'
+PostalCode: '19184'
+
+========================================
+

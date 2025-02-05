@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Justen' 'Bates'
+Address: '5639 Eggendart Plaza'
+City: 'Ogden'
+State: 'Utah'
+PostalCode: '32854'
+
+========================================
+
+Account ID: 266
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-09T06:54:12 Description: Skimia                      Credit: 16690.82     Debit: N/A          
+----------------------------------------
+Total Credits: 16690.82
+Total Debits: 0.00
+Current Balance: 16690.82
+================================================================
+

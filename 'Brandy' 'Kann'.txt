@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Brandy' 'Kann'
+Address: '9 Anthes Way'
+City: 'Santa Fe'
+State: 'New Mexico'
+PostalCode: '48217'
+
+========================================
+
+Account ID: 366
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-12T02:47:17 Description: Vipe                        Credit: 8823.24      Debit: N/A          
+----------------------------------------
+Total Credits: 8823.24
+Total Debits: 0.00
+Current Balance: 8823.24
+================================================================
+

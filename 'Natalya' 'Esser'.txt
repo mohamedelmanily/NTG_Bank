@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Natalya' 'Esser'
+Address: '94 Eagan Junction'
+City: 'Savannah'
+State: 'Georgia'
+PostalCode: '79705'
+
+========================================
+
+Account ID: 814
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-11T03:16:16 Description: Dabfeed                     Credit: N/A          Debit: 4103.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 4103.00
+Current Balance: -4103.00
+================================================================
+

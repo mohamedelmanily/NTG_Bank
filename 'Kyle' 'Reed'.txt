@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Kyle' 'Reed'
+Address: '346 Homewood Place'
+City: 'Houston'
+State: 'Texas'
+PostalCode: '65110'
+
+========================================
+

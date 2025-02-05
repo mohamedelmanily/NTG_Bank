@@ -3,7 +3,9 @@ import com.example.NTG_Bank.entity.Customer;
 import org.springframework.batch.item.file.FlatFileItemReader;
 import org.springframework.batch.item.file.builder.FlatFileItemReaderBuilder;
 import org.springframework.core.io.ClassPathResource;
+import org.springframework.stereotype.Component;
 
+@Component
 public class CustomerItemReader {
 
     public FlatFileItemReader<Customer> reader() {

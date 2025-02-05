@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'George' 'Chiplen'
+Address: '4 Hermina Place'
+City: 'Portland'
+State: 'Oregon'
+PostalCode: '38126'
+
+========================================
+

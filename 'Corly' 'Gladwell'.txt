@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Corly' 'Gladwell'
+Address: '22 Alpine Lane'
+City: 'Pompano Beach'
+State: 'Florida'
+PostalCode: '95064'
+
+========================================
+
+Account ID: 91
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-07T15:52:07 Description: Dynava                      Credit: N/A          Debit: 846.00       
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 846.00
+Current Balance: -846.00
+================================================================
+

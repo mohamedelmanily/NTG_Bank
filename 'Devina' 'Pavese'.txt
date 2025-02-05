@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Devina' 'Pavese'
+Address: '70 Eagle Crest Court'
+City: 'Rochester'
+State: 'New York'
+PostalCode: '48206'
+
+========================================
+

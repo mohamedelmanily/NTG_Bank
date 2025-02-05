@@ -1,0 +1,31 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Derwin' 'Coverdill'
+Address: '3 Forest Crossing'
+City: 'Durham'
+State: 'North Carolina'
+PostalCode: '33625'
+
+========================================
+
+Account ID: 595
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 78
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-14T20:24:22 Description: Jayo                        Credit: N/A          Debit: 2274.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 2274.00
+Current Balance: -2274.00
+================================================================
+

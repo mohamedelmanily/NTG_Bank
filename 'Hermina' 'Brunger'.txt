@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Hermina' 'Brunger'
+Address: '7 3rd Alley'
+City: 'Port Washington'
+State: 'New York'
+PostalCode: '94280'
+
+========================================
+

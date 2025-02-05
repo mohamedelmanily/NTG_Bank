@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Maximo' 'Yeoland'
+Address: '930 Prairie Rose Pass'
+City: 'Young America'
+State: 'Minnesota'
+PostalCode: '33129'
+
+========================================
+
+Account ID: 661
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

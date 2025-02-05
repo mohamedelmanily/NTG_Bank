@@ -1,0 +1,32 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Katalin' 'Claughton'
+Address: '17 4th Alley'
+City: 'Rockford'
+State: 'Illinois'
+PostalCode: '23213'
+
+========================================
+
+Account ID: 330
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-28T03:04:36 Description: Flipopia                    Credit: N/A          Debit: 4386.00      
+Timestamp: 2018-06-08T20:37:45 Description: Topicstorm                  Credit: N/A          Debit: 4381.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 8767.00
+Current Balance: -8767.00
+================================================================
+
+Account ID: 635
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

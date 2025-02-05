@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Jerrylee' 'Refford'
+Address: '50 Haas Terrace'
+City: 'Cincinnati'
+State: 'Ohio'
+PostalCode: '11044'
+
+========================================
+

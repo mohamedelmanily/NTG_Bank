@@ -1,0 +1,31 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Dareen' 'Tellwright'
+Address: '3896 Moland Avenue'
+City: 'San Diego'
+State: 'California'
+PostalCode: '53710'
+
+========================================
+
+Account ID: 640
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-13T04:06:41 Description: Izio                        Credit: N/A          Debit: 150.00       
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 150.00
+Current Balance: -150.00
+================================================================
+
+Account ID: 718
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

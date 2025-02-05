@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Sybyl' 'Chappell'
+Address: '227 Forster Avenue'
+City: 'Syracuse'
+State: 'New York'
+PostalCode: '78764'
+
+========================================
+

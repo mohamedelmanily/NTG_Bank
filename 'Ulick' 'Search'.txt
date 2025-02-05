@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Ulick' 'Search'
+Address: '4 Jenifer Place'
+City: 'Grand Rapids'
+State: 'Michigan'
+PostalCode: '89145'
+
+========================================
+

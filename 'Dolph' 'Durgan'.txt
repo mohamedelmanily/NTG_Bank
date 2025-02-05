@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Dolph' 'Durgan'
+Address: '21 Arizona Drive'
+City: 'Springfield'
+State: 'Massachusetts'
+PostalCode: '23228'
+
+========================================
+

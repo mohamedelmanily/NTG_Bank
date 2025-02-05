@@ -19,6 +19,7 @@ public class Account {
     @Transient
     private Long customerId;
     private Double currentBalance;
+
     private LocalDateTime lastStatementDate;
 
 
@@ -30,5 +31,4 @@ public class Account {
 //    Relation between Account to Transaction
     @OneToMany(mappedBy = "account",cascade = CascadeType.ALL, orphanRemoval = true)
     private List<Transaction> transactions;
-
 }

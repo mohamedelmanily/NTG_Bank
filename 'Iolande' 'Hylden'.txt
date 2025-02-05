@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Iolande' 'Hylden'
+Address: '51 Sachtjen Circle'
+City: 'Athens'
+State: 'Georgia'
+PostalCode: '25336'
+
+========================================
+
+Account ID: 14
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

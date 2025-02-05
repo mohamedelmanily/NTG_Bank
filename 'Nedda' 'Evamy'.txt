@@ -1,0 +1,31 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Nedda' 'Evamy'
+Address: '88817 Clyde Gallagher Parkway'
+City: 'Houston'
+State: 'Texas'
+PostalCode: '80995'
+
+========================================
+
+Account ID: 831
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 42
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-01T12:06:06 Description: Photospace                  Credit: N/A          Debit: 677.00       
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 677.00
+Current Balance: -677.00
+================================================================
+

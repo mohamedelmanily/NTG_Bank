@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Ardith' 'McCurt'
+Address: '7307 Lillian Junction'
+City: 'Washington'
+State: 'District of Columbia'
+PostalCode: '10155'
+
+========================================
+

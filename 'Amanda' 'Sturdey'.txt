@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Amanda' 'Sturdey'
+Address: '543 Harbort Park'
+City: 'New York City'
+State: 'New York'
+PostalCode: '47805'
+
+========================================
+

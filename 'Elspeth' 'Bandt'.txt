@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Elspeth' 'Bandt'
+Address: '19 Doe Crossing Avenue'
+City: 'Shawnee Mission'
+State: 'Kansas'
+PostalCode: '75236'
+
+========================================
+
+Account ID: 210
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-24T14:22:12 Description: Zooxo                       Credit: 10412.82     Debit: N/A          
+Timestamp: 2018-06-29T11:05:03 Description: Devpulse                    Credit: 6350.67      Debit: N/A          
+----------------------------------------
+Total Credits: 16763.49
+Total Debits: 0.00
+Current Balance: 16763.49
+================================================================
+

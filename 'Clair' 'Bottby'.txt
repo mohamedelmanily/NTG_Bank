@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Clair' 'Bottby'
+Address: '3418 Petterle Trail'
+City: 'Asheville'
+State: 'North Carolina'
+PostalCode: '55579'
+
+========================================
+

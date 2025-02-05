@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Prisca' 'Ambrogio'
+Address: '8021 Armistice Junction'
+City: 'Erie'
+State: 'Pennsylvania'
+PostalCode: '18505'
+
+========================================
+
+Account ID: 273
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-11T21:01:19 Description: Chatterpoint                Credit: N/A          Debit: 3495.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 3495.00
+Current Balance: -3495.00
+================================================================
+

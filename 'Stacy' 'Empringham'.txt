@@ -1,0 +1,31 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Stacy' 'Empringham'
+Address: '5772 Lakewood Park'
+City: 'Houston'
+State: 'Texas'
+PostalCode: '76178'
+
+========================================
+
+Account ID: 135
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 466
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-26T01:55:14 Description: Yozio                       Credit: 9693.37      Debit: N/A          
+----------------------------------------
+Total Credits: 9693.37
+Total Debits: 0.00
+Current Balance: 9693.37
+================================================================
+

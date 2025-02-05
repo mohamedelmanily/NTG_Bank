@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Aeriell' 'Jimmison'
+Address: '56 Farwell Place'
+City: 'Washington'
+State: 'District of Columbia'
+PostalCode: '40225'
+
+========================================
+
+Account ID: 722
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-19T01:22:26 Description: Roomm                       Credit: N/A          Debit: 4968.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 4968.00
+Current Balance: -4968.00
+================================================================
+

@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Tucky' 'Spire'
+Address: '66835 Prentice Circle'
+City: 'Corpus Christi'
+State: 'Texas'
+PostalCode: '44485'
+
+========================================
+

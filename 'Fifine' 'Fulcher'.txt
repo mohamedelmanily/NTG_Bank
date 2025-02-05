@@ -1,0 +1,31 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Fifine' 'Fulcher'
+Address: '36866 Anthes Crossing'
+City: 'Ocala'
+State: 'Florida'
+PostalCode: '77493'
+
+========================================
+
+Account ID: 297
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-06T14:37 Description: Yodel                       Credit: N/A          Debit: 3329.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 3329.00
+Current Balance: -3329.00
+================================================================
+
+Account ID: 871
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

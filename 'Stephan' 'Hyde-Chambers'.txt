@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Stephan' 'Hyde-Chambers'
+Address: '0039 Oriole Point'
+City: 'Austin'
+State: 'Texas'
+PostalCode: '80161'
+
+========================================
+

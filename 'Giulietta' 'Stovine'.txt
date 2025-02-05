@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Giulietta' 'Stovine'
+Address: '620 Pearson Terrace'
+City: 'Harrisburg'
+State: 'Pennsylvania'
+PostalCode: '37240'
+
+========================================
+

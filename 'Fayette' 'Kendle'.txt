@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Fayette' 'Kendle'
+Address: '579 Eagle Crest Terrace'
+City: 'Jackson'
+State: 'Mississippi'
+PostalCode: '31106'
+
+========================================
+
+Account ID: 496
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-14T15:53:51 Description: Jabbersphere                Credit: N/A          Debit: 4156.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 4156.00
+Current Balance: -4156.00
+================================================================
+

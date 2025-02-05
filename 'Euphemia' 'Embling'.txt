@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Euphemia' 'Embling'
+Address: '99 Swallow Court'
+City: 'Schenectady'
+State: 'New York'
+PostalCode: '75260'
+
+========================================
+
+Account ID: 237
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-29T04:59:21 Description: Quatz                       Credit: N/A          Debit: 4238.00      
+Timestamp: 2018-06-10T18:25:25 Description: Demivee                     Credit: N/A          Debit: 1374.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 5612.00
+Current Balance: -5612.00
+================================================================
+

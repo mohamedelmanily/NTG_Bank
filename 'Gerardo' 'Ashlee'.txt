@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Gerardo' 'Ashlee'
+Address: '35 Kim Way'
+City: 'Cleveland'
+State: 'Ohio'
+PostalCode: '79188'
+
+========================================
+
+Account ID: 549
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-21T16:10:56 Description: Devshare                    Credit: N/A          Debit: 556.00       
+Timestamp: 2018-06-10T11:39:15 Description: Buzzdog                     Credit: 10801.06     Debit: N/A          
+----------------------------------------
+Total Credits: 10801.06
+Total Debits: 556.00
+Current Balance: 10245.06
+================================================================
+

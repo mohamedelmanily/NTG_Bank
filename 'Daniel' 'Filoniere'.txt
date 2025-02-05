@@ -1,0 +1,42 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Daniel' 'Filoniere'
+Address: '05984 Goodland Circle'
+City: 'San Francisco'
+State: 'California'
+PostalCode: '30096'
+
+========================================
+
+Account ID: 271
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-26T06:55:47 Description: Blogtags                    Credit: N/A          Debit: 3627.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 3627.00
+Current Balance: -3627.00
+================================================================
+
+Account ID: 499
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 809
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-26T07:07:23 Description: Blogspan                    Credit: N/A          Debit: 1644.00      
+Timestamp: 2018-06-03T16:40:39 Description: Blogtags                    Credit: N/A          Debit: 1749.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 3393.00
+Current Balance: -3393.00
+================================================================
+

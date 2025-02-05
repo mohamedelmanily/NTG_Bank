@@ -1,0 +1,32 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Enrique' 'Habbal'
+Address: '33913 Harbort Way'
+City: 'Seattle'
+State: 'Washington'
+PostalCode: '43610'
+
+========================================
+
+Account ID: 252
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 262
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-26T12:14:25 Description: Yakijo                      Credit: 12083.72     Debit: N/A          
+Timestamp: 2018-06-12T04:04:15 Description: Mydeo                       Credit: N/A          Debit: 3477.00      
+----------------------------------------
+Total Credits: 12083.72
+Total Debits: 3477.00
+Current Balance: 8606.72
+================================================================
+

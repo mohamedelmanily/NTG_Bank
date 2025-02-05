@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Darcey' 'Larkkem'
+Address: '0 Monterey Plaza'
+City: 'Las Vegas'
+State: 'Nevada'
+PostalCode: '78285'
+
+========================================
+

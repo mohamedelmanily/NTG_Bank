@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Merv' 'Fratson'
+Address: '93 Delladonna Place'
+City: 'Miami'
+State: 'Florida'
+PostalCode: '66606'
+
+========================================
+

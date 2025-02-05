@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Herbert' 'Ryding'
+Address: '847 Memorial Circle'
+City: 'Washington'
+State: 'District of Columbia'
+PostalCode: '33013'
+
+========================================
+

@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Pavel' 'Lemarie'
+Address: '51668 3rd Way'
+City: 'Wilmington'
+State: 'North Carolina'
+PostalCode: '33543'
+
+========================================
+
+Account ID: 431
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-06T03:01:21 Description: InnoZ                       Credit: 15766.62     Debit: N/A          
+----------------------------------------
+Total Credits: 15766.62
+Total Debits: 0.00
+Current Balance: 15766.62
+================================================================
+

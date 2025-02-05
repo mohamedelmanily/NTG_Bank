@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Mitzi' 'Qusklay'
+Address: '158 Sachs Avenue'
+City: 'New Orleans'
+State: 'Louisiana'
+PostalCode: '20392'
+
+========================================
+
+Account ID: 620
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

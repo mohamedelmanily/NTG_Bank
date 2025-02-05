@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Elsey' 'Pennings'
+Address: '573 Anthes Drive'
+City: 'Des Moines'
+State: 'Iowa'
+PostalCode: '20010'
+
+========================================
+
+Account ID: 199
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-23T19:16:45 Description: Fivebridge                  Credit: N/A          Debit: 227.00       
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 227.00
+Current Balance: -227.00
+================================================================
+

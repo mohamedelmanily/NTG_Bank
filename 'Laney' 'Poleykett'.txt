@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Laney' 'Poleykett'
+Address: '065 Fairview Center'
+City: 'Baton Rouge'
+State: 'Louisiana'
+PostalCode: '20591'
+
+========================================
+

@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Jewel' 'Pritty'
+Address: '79 Loeprich Crossing'
+City: 'Atlanta'
+State: 'Georgia'
+PostalCode: '76110'
+
+========================================
+
+Account ID: 122
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

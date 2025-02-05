@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Huey' 'Undrell'
+Address: '2 Arrowood Pass'
+City: 'Birmingham'
+State: 'Alabama'
+PostalCode: '53405'
+
+========================================
+
+Account ID: 415
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Ashil' 'Gorvin'
+Address: '4696 Northwestern Point'
+City: 'San Francisco'
+State: 'California'
+PostalCode: '19115'
+
+========================================
+
+Account ID: 198
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-16T10:46:23 Description: Photobean                   Credit: N/A          Debit: 3334.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 3334.00
+Current Balance: -3334.00
+================================================================
+

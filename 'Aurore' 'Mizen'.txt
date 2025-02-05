@@ -1,0 +1,24 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Aurore' 'Mizen'
+Address: '37 Cascade Road'
+City: 'Boca Raton'
+State: 'Florida'
+PostalCode: '33315'
+
+========================================
+
+Account ID: 319
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-02T06:23:47 Description: Jabbertype                  Credit: N/A          Debit: 3239.00      
+Timestamp: 2018-06-28T00:10:40 Description: Edgepulse                   Credit: N/A          Debit: 3106.00      
+Timestamp: 2018-06-25T04:48:02 Description: Linktype                    Credit: N/A          Debit: 4768.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 11113.00
+Current Balance: -11113.00
+================================================================
+

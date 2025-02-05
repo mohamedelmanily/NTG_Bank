@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Marty' 'Gerssam'
+Address: '16537 Dexter Junction'
+City: 'Cleveland'
+State: 'Ohio'
+PostalCode: '02458'
+
+========================================
+

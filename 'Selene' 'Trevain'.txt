@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Selene' 'Trevain'
+Address: '6 Manufacturers Hill'
+City: 'Amarillo'
+State: 'Texas'
+PostalCode: '20029'
+
+========================================
+

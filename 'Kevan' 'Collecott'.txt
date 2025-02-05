@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Kevan' 'Collecott'
+Address: '7 Comanche Hill'
+City: 'Garden Grove'
+State: 'California'
+PostalCode: '47712'
+
+========================================
+
+Account ID: 749
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

@@ -1,0 +1,31 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Riki' 'Taggerty'
+Address: '8403 Eastwood Terrace'
+City: 'Chicago'
+State: 'Illinois'
+PostalCode: '61640'
+
+========================================
+
+Account ID: 251
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-28T01:15:36 Description: Gigazoom                    Credit: N/A          Debit: 654.00       
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 654.00
+Current Balance: -654.00
+================================================================
+
+Account ID: 826
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

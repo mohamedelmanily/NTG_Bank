@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Fredelia' 'Campkin'
+Address: '38 Stang Circle'
+City: 'Tulsa'
+State: 'Oklahoma'
+PostalCode: '60691'
+
+========================================
+
+Account ID: 409
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-28T05:50:05 Description: Trudeo                      Credit: N/A          Debit: 591.00       
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 591.00
+Current Balance: -591.00
+================================================================
+

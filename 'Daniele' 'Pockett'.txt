@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Daniele' 'Pockett'
+Address: '6 Valley Edge Circle'
+City: 'Elmira'
+State: 'New York'
+PostalCode: '94137'
+
+========================================
+
+Account ID: 400
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

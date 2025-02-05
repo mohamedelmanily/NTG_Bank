@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Dee' 'Levey'
+Address: '83321 Lakewood Way'
+City: 'Gainesville'
+State: 'Florida'
+PostalCode: '91606'
+
+========================================
+
+Account ID: 417
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-29T14:14:52 Description: Yabox                       Credit: 21594.26     Debit: N/A          
+Timestamp: 2018-06-16T00:06:09 Description: Vitz                        Credit: N/A          Debit: 924.00       
+----------------------------------------
+Total Credits: 21594.26
+Total Debits: 924.00
+Current Balance: 20670.26
+================================================================
+

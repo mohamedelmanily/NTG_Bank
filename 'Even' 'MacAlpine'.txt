@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Even' 'MacAlpine'
+Address: '69626 Huxley Avenue'
+City: 'Springfield'
+State: 'Missouri'
+PostalCode: '60669'
+
+========================================
+
+Account ID: 706
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-05T05:59:53 Description: LiveZ                       Credit: 1009.04      Debit: N/A          
+----------------------------------------
+Total Credits: 1009.04
+Total Debits: 0.00
+Current Balance: 1009.04
+================================================================
+

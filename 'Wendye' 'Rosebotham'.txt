@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Wendye' 'Rosebotham'
+Address: '4338 Grayhawk Junction'
+City: 'Sacramento'
+State: 'California'
+PostalCode: '76905'
+
+========================================
+

@@ -1,0 +1,32 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Caterina' 'Radford'
+Address: '99799 Carpenter Point'
+City: 'Lexington'
+State: 'Kentucky'
+PostalCode: '23289'
+
+========================================
+
+Account ID: 204
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 405
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-01T19:39:53 Description: Skinix                      Credit: N/A          Debit: 438.00       
+Timestamp: 2018-06-01T06:36:15 Description: Dabvine                     Credit: N/A          Debit: 3312.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 3750.00
+Current Balance: -3750.00
+================================================================
+

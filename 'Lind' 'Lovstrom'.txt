@@ -1,0 +1,25 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Lind' 'Lovstrom'
+Address: '235 Golden Leaf Pass'
+City: 'Oklahoma City'
+State: 'Oklahoma'
+PostalCode: '20546'
+
+========================================
+
+Account ID: 834
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-07T18:27:44 Description: Wikivu                      Credit: N/A          Debit: 44.00        
+Timestamp: 2018-06-13T22:12:46 Description: Demizz                      Credit: N/A          Debit: 3125.00      
+Timestamp: 2018-06-12T22:42:35 Description: Thoughtstorm                Credit: N/A          Debit: 4794.00      
+Timestamp: 2018-06-16T18:14:48 Description: Skyba                       Credit: N/A          Debit: 4153.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 12116.00
+Current Balance: -12116.00
+================================================================
+

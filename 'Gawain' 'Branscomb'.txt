@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Gawain' 'Branscomb'
+Address: '358 Almo Way'
+City: 'Evansville'
+State: 'Indiana'
+PostalCode: '48242'
+
+========================================
+

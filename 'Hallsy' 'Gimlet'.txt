@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Hallsy' 'Gimlet'
+Address: '7 Raven Alley'
+City: 'Henderson'
+State: 'Nevada'
+PostalCode: '21229'
+
+========================================
+

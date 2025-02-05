@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Wheeler' 'Hourican'
+Address: '67961 Lindbergh Court'
+City: 'Morgantown'
+State: 'West Virginia'
+PostalCode: '75241'
+
+========================================
+

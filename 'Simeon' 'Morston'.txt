@@ -1,0 +1,32 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Simeon' 'Morston'
+Address: '753 Northview Crossing'
+City: 'Baton Rouge'
+State: 'Louisiana'
+PostalCode: '76147'
+
+========================================
+
+Account ID: 540
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 919
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-21T00:35:12 Description: Kaymbo                      Credit: 11338.99     Debit: N/A          
+Timestamp: 2018-06-05T12:57:33 Description: Viva                        Credit: N/A          Debit: 402.00       
+----------------------------------------
+Total Credits: 11338.99
+Total Debits: 402.00
+Current Balance: 10936.99
+================================================================
+

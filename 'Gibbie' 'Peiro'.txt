@@ -1,0 +1,32 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Gibbie' 'Peiro'
+Address: '131 Killdeer Way'
+City: 'Hamilton'
+State: 'Ohio'
+PostalCode: '28815'
+
+========================================
+
+Account ID: 28
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-18T07:48:35 Description: Bubblemix                   Credit: 9940.17      Debit: N/A          
+----------------------------------------
+Total Credits: 9940.17
+Total Debits: 0.00
+Current Balance: 9940.17
+================================================================
+
+Account ID: 471
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-14T23:25:25 Description: Blogtags                    Credit: N/A          Debit: 3064.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 3064.00
+Current Balance: -3064.00
+================================================================
+

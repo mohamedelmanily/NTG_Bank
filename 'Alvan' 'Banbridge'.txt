@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Alvan' 'Banbridge'
+Address: '2134 Bay Crossing'
+City: 'Louisville'
+State: 'Kentucky'
+PostalCode: '93407'
+
+========================================
+
+Account ID: 27
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

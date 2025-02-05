@@ -1,0 +1,24 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Sean' 'Abbott'
+Address: '6 Bay Road'
+City: 'Fort Pierce'
+State: 'Florida'
+PostalCode: '32244'
+
+========================================
+
+Account ID: 180
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-12T02:43:01 Description: Zoomdog                     Credit: N/A          Debit: 2457.00      
+Timestamp: 2018-06-10T03:19:03 Description: Vinder                      Credit: N/A          Debit: 4507.00      
+Timestamp: 2018-06-02T19:54:37 Description: Skipfire                    Credit: 4991.21      Debit: N/A          
+----------------------------------------
+Total Credits: 4991.21
+Total Debits: 6964.00
+Current Balance: -1972.79
+================================================================
+

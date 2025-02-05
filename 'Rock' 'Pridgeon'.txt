@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Rock' 'Pridgeon'
+Address: '1981 Troy Hill'
+City: 'Carol Stream'
+State: 'Illinois'
+PostalCode: '49510'
+
+========================================
+

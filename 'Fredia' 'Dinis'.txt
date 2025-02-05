@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Fredia' 'Dinis'
+Address: '1 Meadow Valley Pass'
+City: 'Madison'
+State: 'Wisconsin'
+PostalCode: '18706'
+
+========================================
+

@@ -1,0 +1,24 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Tisha' 'Leare'
+Address: '9 Kensington Crossing'
+City: 'Ocala'
+State: 'Florida'
+PostalCode: '10014'
+
+========================================
+
+Account ID: 444
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-22T05:47:59 Description: Skyba                       Credit: N/A          Debit: 4331.00      
+Timestamp: 2018-06-28T20:44:13 Description: Skinte                      Credit: 14898.09     Debit: N/A          
+Timestamp: 2018-06-13T11:01:07 Description: Snaptags                    Credit: N/A          Debit: 4209.00      
+----------------------------------------
+Total Credits: 14898.09
+Total Debits: 8540.00
+Current Balance: 6358.09
+================================================================
+

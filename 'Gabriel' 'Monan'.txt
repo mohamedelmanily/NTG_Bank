@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Gabriel' 'Monan'
+Address: '328 Acker Point'
+City: 'Hyattsville'
+State: 'Maryland'
+PostalCode: '33028'
+
+========================================
+
+Account ID: 734
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-01T00:02:26 Description: Divanoodle                  Credit: N/A          Debit: 3441.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 3441.00
+Current Balance: -3441.00
+================================================================
+

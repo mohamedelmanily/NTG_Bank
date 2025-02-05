@@ -1,0 +1,42 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Alfonso' 'Bryett'
+Address: '81943 Summer Ridge Drive'
+City: 'Macon'
+State: 'Georgia'
+PostalCode: '92519'
+
+========================================
+
+Account ID: 704
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-13T01:52:35 Description: Oyoba                       Credit: N/A          Debit: 3685.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 3685.00
+Current Balance: -3685.00
+================================================================
+
+Account ID: 922
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 967
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-20T09:43:49 Description: Oyoyo                       Credit: N/A          Debit: 3637.00      
+Timestamp: 2018-06-21T04:25:52 Description: Skiba                       Credit: N/A          Debit: 3562.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 7199.00
+Current Balance: -7199.00
+================================================================
+

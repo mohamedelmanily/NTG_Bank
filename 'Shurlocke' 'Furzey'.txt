@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Shurlocke' 'Furzey'
+Address: '829 Scott Trail'
+City: 'Glendale'
+State: 'Arizona'
+PostalCode: '61605'
+
+========================================
+

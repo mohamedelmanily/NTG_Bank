@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Meara' 'Krzyzanowski'
+Address: '423 Gulseth Lane'
+City: 'Oakland'
+State: 'California'
+PostalCode: '77035'
+
+========================================
+
+Account ID: 501
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-21T07:00:21 Description: Shuffletag                  Credit: N/A          Debit: 2197.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 2197.00
+Current Balance: -2197.00
+================================================================
+

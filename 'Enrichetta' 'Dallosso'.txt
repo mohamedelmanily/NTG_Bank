@@ -1,0 +1,32 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Enrichetta' 'Dallosso'
+Address: '30863 Atwood Plaza'
+City: 'New York City'
+State: 'New York'
+PostalCode: '30919'
+
+========================================
+
+Account ID: 781
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 189
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-26T00:08:24 Description: Youopia                     Credit: N/A          Debit: 4906.00      
+Timestamp: 2018-06-26T09:46:44 Description: Gabvine                     Credit: N/A          Debit: 4755.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 9661.00
+Current Balance: -9661.00
+================================================================
+

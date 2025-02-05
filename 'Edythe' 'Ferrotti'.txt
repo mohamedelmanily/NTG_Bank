@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Edythe' 'Ferrotti'
+Address: '5 Jay Center'
+City: 'Saint Louis'
+State: 'Missouri'
+PostalCode: '68134'
+
+========================================
+
+Account ID: 671
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

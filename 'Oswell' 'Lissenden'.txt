@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Oswell' 'Lissenden'
+Address: '9727 Hintze Point'
+City: 'Hartford'
+State: 'Connecticut'
+PostalCode: '92505'
+
+========================================
+

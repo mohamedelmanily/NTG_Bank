@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Rowena' 'Stribbling'
+Address: '13 Kingsford Crossing'
+City: 'Austin'
+State: 'Texas'
+PostalCode: '11447'
+
+========================================
+
+Account ID: 154
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-22T22:35:13 Description: Kazio                       Credit: 12850.14     Debit: N/A          
+----------------------------------------
+Total Credits: 12850.14
+Total Debits: 0.00
+Current Balance: 12850.14
+================================================================
+

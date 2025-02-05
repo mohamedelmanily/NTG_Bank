@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Kacie' 'Ibotson'
+Address: '53437 Village Green Road'
+City: 'Winston Salem'
+State: 'North Carolina'
+PostalCode: '88519'
+
+========================================
+

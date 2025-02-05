@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Jillian' 'McCreery'
+Address: '4835 Shasta Point'
+City: 'Anderson'
+State: 'South Carolina'
+PostalCode: '33673'
+
+========================================
+

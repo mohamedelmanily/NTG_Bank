@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Warren' 'Cyson'
+Address: '54 Stoughton Plaza'
+City: 'Boulder'
+State: 'Colorado'
+PostalCode: '11241'
+
+========================================
+
+Account ID: 816
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

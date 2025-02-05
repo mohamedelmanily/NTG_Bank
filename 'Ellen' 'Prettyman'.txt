@@ -1,0 +1,32 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Ellen' 'Prettyman'
+Address: '26 Hagan Alley'
+City: 'Lake Charles'
+State: 'Louisiana'
+PostalCode: '02405'
+
+========================================
+
+Account ID: 80
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-24T16:50:50 Description: Realblab                    Credit: N/A          Debit: 1886.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 1886.00
+Current Balance: -1886.00
+================================================================
+
+Account ID: 672
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-25T04:15:47 Description: Mydo                        Credit: N/A          Debit: 732.00       
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 732.00
+Current Balance: -732.00
+================================================================
+

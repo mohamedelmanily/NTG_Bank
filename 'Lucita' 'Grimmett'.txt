@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Lucita' 'Grimmett'
+Address: '8716 Rieder Way'
+City: 'Washington'
+State: 'District of Columbia'
+PostalCode: '44130'
+
+========================================
+

@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Stella' 'Madner'
+Address: '74 Hovde Parkway'
+City: 'New York City'
+State: 'New York'
+PostalCode: '48107'
+
+========================================
+

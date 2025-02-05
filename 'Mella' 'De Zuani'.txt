@@ -1,0 +1,31 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Mella' 'De Zuani'
+Address: '1 Meadow Ridge Circle'
+City: 'Monroe'
+State: 'Louisiana'
+PostalCode: '77505'
+
+========================================
+
+Account ID: 664
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 733
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-02T20:23:35 Description: Tagchat                     Credit: N/A          Debit: 1681.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 1681.00
+Current Balance: -1681.00
+================================================================
+

@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Bernie' 'Julian'
+Address: '71 Carioca Drive'
+City: 'Los Angeles'
+State: 'California'
+PostalCode: '02745'
+
+========================================
+
+Account ID: 282
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-03T02:37:51 Description: Flashspan                   Credit: N/A          Debit: 4554.00      
+Timestamp: 2018-06-27T02:18:01 Description: Feedspan                    Credit: N/A          Debit: 3858.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 8412.00
+Current Balance: -8412.00
+================================================================
+

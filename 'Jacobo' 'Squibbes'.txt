@@ -1,0 +1,32 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Jacobo' 'Squibbes'
+Address: '9 Spohn Trail'
+City: 'Lexington'
+State: 'Kentucky'
+PostalCode: '25362'
+
+========================================
+
+Account ID: 646
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 920
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-22T14:34:10 Description: Youfeed                     Credit: N/A          Debit: 830.00       
+Timestamp: 2018-06-03T23:18:28 Description: Photojam                    Credit: N/A          Debit: 2689.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 3519.00
+Current Balance: -3519.00
+================================================================
+

@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Aloysia' 'Wycliff'
+Address: '540 Grover Pass'
+City: 'San Francisco'
+State: 'California'
+PostalCode: '55127'
+
+========================================
+

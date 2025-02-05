@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Issie' 'Eccott'
+Address: '0250 Birchwood Terrace'
+City: 'Fort Worth'
+State: 'Texas'
+PostalCode: '66220'
+
+========================================
+

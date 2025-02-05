@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Dael' 'Light'
+Address: '104 Hauk Place'
+City: 'Huntington Beach'
+State: 'California'
+PostalCode: '06152'
+
+========================================
+
+Account ID: 924
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

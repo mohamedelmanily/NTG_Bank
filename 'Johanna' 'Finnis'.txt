@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Johanna' 'Finnis'
+Address: '533 Waywood Avenue'
+City: 'Erie'
+State: 'Pennsylvania'
+PostalCode: '32209'
+
+========================================
+

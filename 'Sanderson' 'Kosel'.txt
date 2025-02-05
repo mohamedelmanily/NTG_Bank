@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Sanderson' 'Kosel'
+Address: '97 Burrows Terrace'
+City: 'Great Neck'
+State: 'New York'
+PostalCode: '75044'
+
+========================================
+

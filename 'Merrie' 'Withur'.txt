@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Merrie' 'Withur'
+Address: '81 Dwight Alley'
+City: 'Saint Petersburg'
+State: 'Florida'
+PostalCode: '76178'
+
+========================================
+

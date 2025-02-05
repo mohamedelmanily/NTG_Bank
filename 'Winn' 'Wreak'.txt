@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Winn' 'Wreak'
+Address: '69935 Transport Circle'
+City: 'Macon'
+State: 'Georgia'
+PostalCode: '73142'
+
+========================================
+
+Account ID: 367
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-02T10:15:48 Description: Photolist                   Credit: N/A          Debit: 924.00       
+Timestamp: 2018-06-14T20:37 Description: Tambee                      Credit: N/A          Debit: 1127.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 2051.00
+Current Balance: -2051.00
+================================================================
+

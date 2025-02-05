@@ -1,0 +1,31 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Tim' 'Scain'
+Address: '812 Pleasure Junction'
+City: 'Inglewood'
+State: 'California'
+PostalCode: '60697'
+
+========================================
+
+Account ID: 94
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-05T04:26:33 Description: Edgeclub                    Credit: N/A          Debit: 4733.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 4733.00
+Current Balance: -4733.00
+================================================================
+
+Account ID: 412
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

@@ -1,0 +1,34 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Laverne' 'Patrickson'
+Address: '3112 Pennsylvania Lane'
+City: 'Atlanta'
+State: 'Georgia'
+PostalCode: '78296'
+
+========================================
+
+Account ID: 457
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-09T06:52:12 Description: Realfire                    Credit: N/A          Debit: 2223.00      
+Timestamp: 2018-06-19T02:02:28 Description: Mita                        Credit: N/A          Debit: 1704.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 3927.00
+Current Balance: -3927.00
+================================================================
+
+Account ID: 932
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-26T02:07:42 Description: Avamba                      Credit: N/A          Debit: 3492.00      
+Timestamp: 2018-06-15T15:01:47 Description: Buzzshare                   Credit: N/A          Debit: 48.00        
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 3540.00
+Current Balance: -3540.00
+================================================================
+

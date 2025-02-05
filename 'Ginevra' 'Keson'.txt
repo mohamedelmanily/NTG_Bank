@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Ginevra' 'Keson'
+Address: '762 Ridgeview Park'
+City: 'Denver'
+State: 'Colorado'
+PostalCode: '20073'
+
+========================================
+
+Account ID: 900
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-06T15:09:22 Description: Flipstorm                   Credit: N/A          Debit: 2967.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 2967.00
+Current Balance: -2967.00
+================================================================
+

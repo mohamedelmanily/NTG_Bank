@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Colet' 'Ivanusyev'
+Address: '43 School Junction'
+City: 'Huntington'
+State: 'West Virginia'
+PostalCode: '75251'
+
+========================================
+
+Account ID: 552
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-26T07:45:16 Description: Jabbercube                  Credit: N/A          Debit: 2512.00      
+Timestamp: 2018-06-02T21:46:02 Description: Meevee                      Credit: N/A          Debit: 3155.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 5667.00
+Current Balance: -5667.00
+================================================================
+

@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Storm' 'Tallquist'
+Address: '8 Village Place'
+City: 'El Paso'
+State: 'Texas'
+PostalCode: '53234'
+
+========================================
+

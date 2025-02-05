@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Brietta' 'Raxworthy'
+Address: '03 Rutledge Crossing'
+City: 'Salt Lake City'
+State: 'Utah'
+PostalCode: '92844'
+
+========================================
+

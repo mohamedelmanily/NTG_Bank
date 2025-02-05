@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Faunie' 'Whitwell'
+Address: '7720 Nobel Terrace'
+City: 'Madison'
+State: 'Wisconsin'
+PostalCode: '30380'
+
+========================================
+
+Account ID: 313
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

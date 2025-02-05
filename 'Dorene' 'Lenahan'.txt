@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Dorene' 'Lenahan'
+Address: '66212 Eggendart Street'
+City: 'San Jose'
+State: 'California'
+PostalCode: '38188'
+
+========================================
+

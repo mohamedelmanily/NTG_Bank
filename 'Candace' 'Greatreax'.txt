@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Candace' 'Greatreax'
+Address: '10712 Anhalt Plaza'
+City: 'Fort Lauderdale'
+State: 'Florida'
+PostalCode: '53277'
+
+========================================
+

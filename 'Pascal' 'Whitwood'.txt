@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Pascal' 'Whitwood'
+Address: '81 Carioca Road'
+City: 'Atlanta'
+State: 'Georgia'
+PostalCode: '10270'
+
+========================================
+
+Account ID: 795
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-01T13:12:36 Description: Trudeo                      Credit: N/A          Debit: 3081.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 3081.00
+Current Balance: -3081.00
+================================================================
+

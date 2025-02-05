@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Kassi' 'Crown'
+Address: '802 Mitchell Lane'
+City: 'Midland'
+State: 'Michigan'
+PostalCode: '97312'
+
+========================================
+
+Account ID: 424
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-22T11:53:41 Description: Katz                        Credit: N/A          Debit: 3084.00      
+Timestamp: 2018-06-14T19:36:36 Description: Kwimbee                     Credit: N/A          Debit: 2256.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 5340.00
+Current Balance: -5340.00
+================================================================
+

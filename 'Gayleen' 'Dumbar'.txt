@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Gayleen' 'Dumbar'
+Address: '5 Crowley Crossing'
+City: 'Columbus'
+State: 'Georgia'
+PostalCode: '20088'
+
+========================================
+
+Account ID: 207
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

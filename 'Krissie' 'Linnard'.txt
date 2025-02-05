@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Krissie' 'Linnard'
+Address: '83972 Springview Place'
+City: 'Roanoke'
+State: 'Virginia'
+PostalCode: '48604'
+
+========================================
+
+Account ID: 960
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-04T21:56:11 Description: Shuffletag                  Credit: 5662.65      Debit: N/A          
+----------------------------------------
+Total Credits: 5662.65
+Total Debits: 0.00
+Current Balance: 5662.65
+================================================================
+

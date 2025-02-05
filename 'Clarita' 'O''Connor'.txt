@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Clarita' 'O''Connor'
+Address: '8173 Kedzie Alley'
+City: 'Shreveport'
+State: 'Louisiana'
+PostalCode: '49560'
+
+========================================
+
+Account ID: 503
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-19T09:33:23 Description: Oloo                        Credit: N/A          Debit: 3141.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 3141.00
+Current Balance: -3141.00
+================================================================
+

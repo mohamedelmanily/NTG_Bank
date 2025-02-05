@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Fifi' 'Lammerich'
+Address: '083 Shopko Crossing'
+City: 'Albuquerque'
+State: 'New Mexico'
+PostalCode: '52405'
+
+========================================
+

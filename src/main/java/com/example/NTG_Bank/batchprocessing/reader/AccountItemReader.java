@@ -5,7 +5,9 @@ import com.example.NTG_Bank.mapper.AccountFieldSetMapper;
 import org.springframework.batch.item.file.FlatFileItemReader;
 import org.springframework.batch.item.file.builder.FlatFileItemReaderBuilder;
 import org.springframework.core.io.ClassPathResource;
+import org.springframework.stereotype.Component;
 
+@Component
 public class AccountItemReader  {
     public FlatFileItemReader<Account> reader(){
         return new FlatFileItemReaderBuilder<Account>()

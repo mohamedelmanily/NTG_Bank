@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Pier' 'Duligall'
+Address: '629 Glendale Pass'
+City: 'Duluth'
+State: 'Georgia'
+PostalCode: '35295'
+
+========================================
+

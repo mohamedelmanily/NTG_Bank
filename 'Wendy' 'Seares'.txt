@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Wendy' 'Seares'
+Address: '90 4th Plaza'
+City: 'Las Vegas'
+State: 'Nevada'
+PostalCode: '73197'
+
+========================================
+

@@ -1,0 +1,32 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Pandora' 'Orvis'
+Address: '78032 Superior Drive'
+City: 'Dallas'
+State: 'Texas'
+PostalCode: '78703'
+
+========================================
+
+Account ID: 79
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-12T15:39:19 Description: Npath                       Credit: N/A          Debit: 2297.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 2297.00
+Current Balance: -2297.00
+================================================================
+
+Account ID: 229
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-13T05:43:11 Description: Rhycero                     Credit: N/A          Debit: 1359.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 1359.00
+Current Balance: -1359.00
+================================================================
+

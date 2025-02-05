@@ -1,0 +1,25 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Chloris' 'Kem'
+Address: '35199 Fuller Lane'
+City: 'Corpus Christi'
+State: 'Texas'
+PostalCode: '14639'
+
+========================================
+
+Account ID: 128
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-05T11:09:03 Description: Dazzlesphere                Credit: N/A          Debit: 1029.00      
+Timestamp: 2018-06-17T11:02:52 Description: Agivu                       Credit: N/A          Debit: 3077.00      
+Timestamp: 2018-06-15T19:08:13 Description: Yabox                       Credit: N/A          Debit: 26.00        
+Timestamp: 2018-06-03T08:51:49 Description: Mudo                        Credit: N/A          Debit: 127.00       
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 4259.00
+Current Balance: -4259.00
+================================================================
+

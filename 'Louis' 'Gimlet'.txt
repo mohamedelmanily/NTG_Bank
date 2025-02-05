@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Louis' 'Gimlet'
+Address: '29984 Riverside Place'
+City: 'Kalamazoo'
+State: 'Michigan'
+PostalCode: '19146'
+
+========================================
+
+Account ID: 940
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-11T19:46:57 Description: Yombu                       Credit: N/A          Debit: 3644.00      
+Timestamp: 2018-06-18T13:57:27 Description: Rhycero                     Credit: N/A          Debit: 2606.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 6250.00
+Current Balance: -6250.00
+================================================================
+

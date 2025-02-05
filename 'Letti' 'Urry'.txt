@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Letti' 'Urry'
+Address: '3501 Northwestern Pass'
+City: 'Oklahoma City'
+State: 'Oklahoma'
+PostalCode: '20380'
+
+========================================
+
+Account ID: 811
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

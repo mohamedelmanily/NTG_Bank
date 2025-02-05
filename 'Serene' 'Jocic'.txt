@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Serene' 'Jocic'
+Address: '549 Reindahl Hill'
+City: 'Kansas City'
+State: 'Missouri'
+PostalCode: '35220'
+
+========================================
+

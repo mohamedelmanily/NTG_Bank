@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Ardeen' 'Curnucke'
+Address: '7137 Sachs Junction'
+City: 'Houston'
+State: 'Texas'
+PostalCode: '90840'
+
+========================================
+

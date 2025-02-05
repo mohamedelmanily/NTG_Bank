@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Avis' 'Jime'
+Address: '5 Bluejay Point'
+City: 'Phoenix'
+State: 'Arizona'
+PostalCode: '29225'
+
+========================================
+

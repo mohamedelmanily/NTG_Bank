@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Josephine' 'Legerton'
+Address: '34 Village Green Hill'
+City: 'Sacramento'
+State: 'California'
+PostalCode: '88553'
+
+========================================
+
+Account ID: 848
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

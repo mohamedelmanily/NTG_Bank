@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Arlin' 'Langworthy'
+Address: '82 Kim Alley'
+City: 'New Orleans'
+State: 'Louisiana'
+PostalCode: '80930'
+
+========================================
+
+Account ID: 622
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-04T23:39:22 Description: Yoveo                       Credit: N/A          Debit: 2885.00      
+Timestamp: 2018-06-27T21:12:20 Description: Realbuzz                    Credit: N/A          Debit: 71.00        
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 2956.00
+Current Balance: -2956.00
+================================================================
+

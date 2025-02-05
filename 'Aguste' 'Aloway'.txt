@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Aguste' 'Aloway'
+Address: '66170 Charing Cross Plaza'
+City: 'Davenport'
+State: 'Iowa'
+PostalCode: '40515'
+
+========================================
+
+Account ID: 717
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

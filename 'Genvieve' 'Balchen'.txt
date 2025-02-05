@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Genvieve' 'Balchen'
+Address: '168 Hoffman Center'
+City: 'Greensboro'
+State: 'North Carolina'
+PostalCode: '32309'
+
+========================================
+

@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Jaquelyn' 'Bethell'
+Address: '59 Laurel Park'
+City: 'Fort Worth'
+State: 'Texas'
+PostalCode: '30096'
+
+========================================
+
+Account ID: 840
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-04T00:25:11 Description: DabZ                        Credit: N/A          Debit: 3382.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 3382.00
+Current Balance: -3382.00
+================================================================
+

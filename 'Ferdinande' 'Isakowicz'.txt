@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Ferdinande' 'Isakowicz'
+Address: '61666 Holmberg Plaza'
+City: 'Beaverton'
+State: 'Oregon'
+PostalCode: '46825'
+
+========================================
+

@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Carson' 'Denys'
+Address: '0174 Daystar Place'
+City: 'New Orleans'
+State: 'Louisiana'
+PostalCode: '22333'
+
+========================================
+

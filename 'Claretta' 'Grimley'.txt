@@ -1,0 +1,63 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Claretta' 'Grimley'
+Address: '54007 Clyde Gallagher Park'
+City: 'New Haven'
+State: 'Connecticut'
+PostalCode: '85010'
+
+========================================
+
+Account ID: 679
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-14T09:36:16 Description: Zava                        Credit: 17137.46     Debit: N/A          
+Timestamp: 2018-06-08T18:11:28 Description: Twitterwire                 Credit: N/A          Debit: 2787.00      
+Timestamp: 2018-06-26T09:00:59 Description: Oyonder                     Credit: 2819.94      Debit: N/A          
+----------------------------------------
+Total Credits: 19957.40
+Total Debits: 2787.00
+Current Balance: 17170.40
+================================================================
+
+Account ID: 127
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-09T09:50:18 Description: Centidel                    Credit: N/A          Debit: 1295.00      
+Timestamp: 2018-06-02T15:09:20 Description: Demivee                     Credit: 18742.72     Debit: N/A          
+----------------------------------------
+Total Credits: 18742.72
+Total Debits: 1295.00
+Current Balance: 17447.72
+================================================================
+
+Account ID: 538
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 618
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 752
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-28T14:18:45 Description: Blognation                  Credit: N/A          Debit: 1642.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 1642.00
+Current Balance: -1642.00
+================================================================
+

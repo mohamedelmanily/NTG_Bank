@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Aldridge' 'Hutchcraft'
+Address: '331 Coolidge Terrace'
+City: 'Naples'
+State: 'Florida'
+PostalCode: '89595'
+
+========================================
+

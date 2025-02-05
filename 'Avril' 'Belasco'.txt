@@ -1,0 +1,44 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Avril' 'Belasco'
+Address: '77 School Circle'
+City: 'Reno'
+State: 'Nevada'
+PostalCode: '77030'
+
+========================================
+
+Account ID: 17
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-17T17:20:25 Description: Dynava                      Credit: N/A          Debit: 4775.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 4775.00
+Current Balance: -4775.00
+================================================================
+
+Account ID: 103
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 590
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-20T04:25:55 Description: Skiptube                    Credit: N/A          Debit: 3929.00      
+Timestamp: 2018-06-18T06:39:15 Description: Aibox                       Credit: N/A          Debit: 3931.00      
+Timestamp: 2018-06-22T19:10:46 Description: Zoombox                     Credit: N/A          Debit: 4601.00      
+Timestamp: 2018-06-04T23:23:23 Description: Twitterbeat                 Credit: N/A          Debit: 4963.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 17424.00
+Current Balance: -17424.00
+================================================================
+

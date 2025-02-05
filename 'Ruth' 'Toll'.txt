@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Ruth' 'Toll'
+Address: '76 Declaration Terrace'
+City: 'Saint Louis'
+State: 'Missouri'
+PostalCode: '70005'
+
+========================================
+
+Account ID: 726
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

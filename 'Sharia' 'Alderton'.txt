@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Sharia' 'Alderton'
+Address: '79 Coleman Place'
+City: 'El Paso'
+State: 'Texas'
+PostalCode: '32813'
+
+========================================
+

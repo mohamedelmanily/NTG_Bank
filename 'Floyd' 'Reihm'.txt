@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Floyd' 'Reihm'
+Address: '8 Namekagon Road'
+City: 'San Jose'
+State: 'California'
+PostalCode: '43215'
+
+========================================
+
+Account ID: 762
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

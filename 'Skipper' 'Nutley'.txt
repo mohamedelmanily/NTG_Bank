@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Skipper' 'Nutley'
+Address: '31 Shoshone Point'
+City: 'Knoxville'
+State: 'Tennessee'
+PostalCode: '40250'
+
+========================================
+
+Account ID: 879
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-12T14:51:11 Description: Quimm                       Credit: N/A          Debit: 4913.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 4913.00
+Current Balance: -4913.00
+================================================================
+

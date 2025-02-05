@@ -1,0 +1,31 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Iolande' 'McKeefry'
+Address: '44 Gina Plaza'
+City: 'Louisville'
+State: 'Kentucky'
+PostalCode: '33915'
+
+========================================
+
+Account ID: 513
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 951
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-15T17:51:39 Description: Meejo                       Credit: N/A          Debit: 3507.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 3507.00
+Current Balance: -3507.00
+================================================================
+

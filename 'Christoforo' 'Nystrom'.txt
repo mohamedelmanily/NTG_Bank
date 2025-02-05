@@ -1,0 +1,32 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Christoforo' 'Nystrom'
+Address: '52 Anhalt Circle'
+City: 'Jefferson City'
+State: 'Missouri'
+PostalCode: '64136'
+
+========================================
+
+Account ID: 459
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 637
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-04T07:42:28 Description: Meetz                       Credit: 12409.76     Debit: N/A          
+Timestamp: 2018-06-02T20:47:40 Description: Jaxbean                     Credit: 15025.01     Debit: N/A          
+----------------------------------------
+Total Credits: 27434.77
+Total Debits: 0.00
+Current Balance: 27434.77
+================================================================
+

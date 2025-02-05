@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Evelin' 'Janousek'
+Address: '6696 Sugar Hill'
+City: 'Tulsa'
+State: 'Oklahoma'
+PostalCode: '12227'
+
+========================================
+

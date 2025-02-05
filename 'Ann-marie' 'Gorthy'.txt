@@ -1,0 +1,33 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Ann-marie' 'Gorthy'
+Address: '3446 Eliot Street'
+City: 'Richmond'
+State: 'Virginia'
+PostalCode: '50936'
+
+========================================
+
+Account ID: 571
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-05T21:13:52 Description: Trilia                      Credit: 21884.26     Debit: N/A          
+----------------------------------------
+Total Credits: 21884.26
+Total Debits: 0.00
+Current Balance: 21884.26
+================================================================
+
+Account ID: 477
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-28T06:30:04 Description: Cogilith                    Credit: N/A          Debit: 4082.00      
+Timestamp: 2018-06-22T13:12:31 Description: Skaboo                      Credit: 5437.17      Debit: N/A          
+----------------------------------------
+Total Credits: 5437.17
+Total Debits: 4082.00
+Current Balance: 1355.17
+================================================================
+

@@ -1,0 +1,31 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Ki' 'Sorensen'
+Address: '745 Havey Point'
+City: 'New York City'
+State: 'New York'
+PostalCode: '75236'
+
+========================================
+
+Account ID: 744
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 568
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-23T02:35:42 Description: Zoovu                       Credit: N/A          Debit: 1868.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 1868.00
+Current Balance: -1868.00
+================================================================
+

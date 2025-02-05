@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Ardelle' 'Pellamonuten'
+Address: '19 8th Crossing'
+City: 'Birmingham'
+State: 'Alabama'
+PostalCode: '77040'
+
+========================================
+

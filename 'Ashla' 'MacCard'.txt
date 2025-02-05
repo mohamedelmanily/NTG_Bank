@@ -1,0 +1,33 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Ashla' 'MacCard'
+Address: '27 Marquette Road'
+City: 'Anaheim'
+State: 'California'
+PostalCode: '55103'
+
+========================================
+
+Account ID: 480
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-28T19:00:54 Description: Blognation                  Credit: N/A          Debit: 718.00       
+Timestamp: 2018-06-01T13:06:31 Description: Yodel                       Credit: N/A          Debit: 4271.00      
+Timestamp: 2018-06-17T11:01:41 Description: Voonix                      Credit: 1802.29      Debit: N/A          
+----------------------------------------
+Total Credits: 1802.29
+Total Debits: 4989.00
+Current Balance: -3186.71
+================================================================
+
+Account ID: 614
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

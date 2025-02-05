@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Northrop' 'Izacenko'
+Address: '57156 Ryan Avenue'
+City: 'Philadelphia'
+State: 'Pennsylvania'
+PostalCode: '47905'
+
+========================================
+

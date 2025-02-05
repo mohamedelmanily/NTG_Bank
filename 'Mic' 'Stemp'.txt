@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Mic' 'Stemp'
+Address: '4278 Ludington Terrace'
+City: 'Raleigh'
+State: 'North Carolina'
+PostalCode: '68117'
+
+========================================
+

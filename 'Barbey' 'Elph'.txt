@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Barbey' 'Elph'
+Address: '430 Katie Avenue'
+City: 'Tulsa'
+State: 'Oklahoma'
+PostalCode: '23293'
+
+========================================
+

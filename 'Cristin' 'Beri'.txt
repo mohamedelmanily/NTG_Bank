@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Cristin' 'Beri'
+Address: '3552 Mcbride Circle'
+City: 'Canton'
+State: 'Ohio'
+PostalCode: '32405'
+
+========================================
+
+Account ID: 829
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-12T09:58:28 Description: Yamia                       Credit: N/A          Debit: 4771.00      
+Timestamp: 2018-06-22T10:04:41 Description: Katz                        Credit: 7215.40      Debit: N/A          
+----------------------------------------
+Total Credits: 7215.40
+Total Debits: 4771.00
+Current Balance: 2444.40
+================================================================
+

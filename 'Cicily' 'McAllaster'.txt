@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Cicily' 'McAllaster'
+Address: '533 Lawn Lane'
+City: 'Bellevue'
+State: 'Washington'
+PostalCode: '23551'
+
+========================================
+

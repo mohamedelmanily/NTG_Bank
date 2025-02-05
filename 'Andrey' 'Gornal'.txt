@@ -1,0 +1,24 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Andrey' 'Gornal'
+Address: '9 Oxford Drive'
+City: 'Las Cruces'
+State: 'New Mexico'
+PostalCode: '27626'
+
+========================================
+
+Account ID: 434
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-24T10:42 Description: Photobug                    Credit: N/A          Debit: 3493.00      
+Timestamp: 2018-06-22T09:11:04 Description: Rooxo                       Credit: N/A          Debit: 4176.00      
+Timestamp: 2018-06-06T23:44:22 Description: Tazzy                       Credit: 20145.64     Debit: N/A          
+----------------------------------------
+Total Credits: 20145.64
+Total Debits: 7669.00
+Current Balance: 12476.64
+================================================================
+

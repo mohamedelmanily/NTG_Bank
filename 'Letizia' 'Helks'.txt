@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Letizia' 'Helks'
+Address: '3744 Fairview Terrace'
+City: 'Spokane'
+State: 'Washington'
+PostalCode: '90020'
+
+========================================
+

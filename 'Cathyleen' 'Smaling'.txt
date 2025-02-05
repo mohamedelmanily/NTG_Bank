@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Cathyleen' 'Smaling'
+Address: '717 Spenser Junction'
+City: 'Houston'
+State: 'Texas'
+PostalCode: '85020'
+
+========================================
+

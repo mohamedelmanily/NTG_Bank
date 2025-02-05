@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Eamon' 'Whettleton'
+Address: '46939 Atwood Alley'
+City: 'New Castle'
+State: 'Pennsylvania'
+PostalCode: '14609'
+
+========================================
+
+Account ID: 952
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-11T16:14:38 Description: Rhynoodle                   Credit: N/A          Debit: 47.00        
+Timestamp: 2018-06-09T18:55:57 Description: Edgetag                     Credit: N/A          Debit: 978.00       
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 1025.00
+Current Balance: -1025.00
+================================================================
+

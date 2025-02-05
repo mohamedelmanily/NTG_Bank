@@ -1,0 +1,33 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Helen' 'Kilpin'
+Address: '78217 Bluestem Crossing'
+City: 'Dallas'
+State: 'Texas'
+PostalCode: '85005'
+
+========================================
+
+Account ID: 847
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-28T11:18:35 Description: Quimba                      Credit: N/A          Debit: 509.00       
+Timestamp: 2018-06-14T11:54:41 Description: Topicstorm                  Credit: N/A          Debit: 4558.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 5067.00
+Current Balance: -5067.00
+================================================================
+
+Account ID: 12
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-21T17:18:07 Description: Zoomlounge                  Credit: N/A          Debit: 847.00       
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 847.00
+Current Balance: -847.00
+================================================================
+

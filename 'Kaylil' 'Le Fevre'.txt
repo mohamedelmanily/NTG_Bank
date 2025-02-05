@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Kaylil' 'Le Fevre'
+Address: '7972 Sullivan Road'
+City: 'Dallas'
+State: 'Texas'
+PostalCode: '78426'
+
+========================================
+
+Account ID: 195
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-27T23:01:02 Description: Skilith                     Credit: 5221.01      Debit: N/A          
+----------------------------------------
+Total Credits: 5221.01
+Total Debits: 0.00
+Current Balance: 5221.01
+================================================================
+

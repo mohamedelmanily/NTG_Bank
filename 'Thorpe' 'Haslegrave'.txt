@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Thorpe' 'Haslegrave'
+Address: '2836 Columbus Way'
+City: 'Duluth'
+State: 'Minnesota'
+PostalCode: '98664'
+
+========================================
+
+Account ID: 228
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

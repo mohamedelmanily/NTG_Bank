@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Hogan' 'Bodley'
+Address: '74551 Nobel Alley'
+City: 'Mesa'
+State: 'Arizona'
+PostalCode: '89012'
+
+========================================
+

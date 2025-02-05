@@ -27,4 +27,13 @@ public class Transaction {
     @ManyToOne
     @JoinColumn(name="accountId")
     private Account account;
+
+    @Override
+    public String toString() {
+        return String.format("%-25s %-40s %-20s %-20s",
+                "Timestamp: " + timestamp,
+                "Description: " + description,
+                "Credit: " + (credit != null ? String.format("%.2f", credit) : "N/A"),
+                "Debit: " + (debit != null ? String.format("%.2f", debit) : "N/A"));
+    }
 }

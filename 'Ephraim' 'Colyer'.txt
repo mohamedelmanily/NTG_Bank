@@ -1,0 +1,24 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Ephraim' 'Colyer'
+Address: '66042 Kropf Parkway'
+City: 'Saint Paul'
+State: 'Minnesota'
+PostalCode: '90805'
+
+========================================
+
+Account ID: 462
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-11T06:01:23 Description: Topiclounge                 Credit: N/A          Debit: 1871.00      
+Timestamp: 2018-06-27T03:53:04 Description: Zoomcast                    Credit: 21551.18     Debit: N/A          
+Timestamp: 2018-06-29T19:43:08 Description: Quimm                       Credit: N/A          Debit: 3216.00      
+----------------------------------------
+Total Credits: 21551.18
+Total Debits: 5087.00
+Current Balance: 16464.18
+================================================================
+

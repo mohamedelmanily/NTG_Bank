@@ -1,0 +1,32 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Silvanus' 'Pelham'
+Address: '81317 Green Ridge Street'
+City: 'Oklahoma City'
+State: 'Oklahoma'
+PostalCode: '70129'
+
+========================================
+
+Account ID: 152
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-05T21:43:54 Description: Trupe                       Credit: 10815.87     Debit: N/A          
+----------------------------------------
+Total Credits: 10815.87
+Total Debits: 0.00
+Current Balance: 10815.87
+================================================================
+
+Account ID: 923
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-20T05:46:40 Description: Quatz                       Credit: N/A          Debit: 4004.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 4004.00
+Current Balance: -4004.00
+================================================================
+

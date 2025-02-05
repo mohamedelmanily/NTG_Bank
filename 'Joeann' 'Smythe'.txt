@@ -1,0 +1,31 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Joeann' 'Smythe'
+Address: '44492 Bluejay Plaza'
+City: 'Los Angeles'
+State: 'California'
+PostalCode: '47134'
+
+========================================
+
+Account ID: 307
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 893
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-20T17:45:56 Description: Oyope                       Credit: N/A          Debit: 2589.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 2589.00
+Current Balance: -2589.00
+================================================================
+

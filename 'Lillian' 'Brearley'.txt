@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Lillian' 'Brearley'
+Address: '37 Raven Place'
+City: 'Silver Spring'
+State: 'Maryland'
+PostalCode: '80638'
+
+========================================
+
+Account ID: 516
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-28T09:33:16 Description: Zoomdog                     Credit: N/A          Debit: 4298.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 4298.00
+Current Balance: -4298.00
+================================================================
+

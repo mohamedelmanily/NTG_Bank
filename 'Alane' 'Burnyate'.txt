@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Alane' 'Burnyate'
+Address: '3 Russell Terrace'
+City: 'Sacramento'
+State: 'California'
+PostalCode: '13217'
+
+========================================
+

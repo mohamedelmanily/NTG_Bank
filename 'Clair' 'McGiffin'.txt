@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Clair' 'McGiffin'
+Address: '17264 Cardinal Court'
+City: 'Jefferson City'
+State: 'Missouri'
+PostalCode: '73034'
+
+========================================
+
+Account ID: 565
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-28T05:20:42 Description: Skilith                     Credit: N/A          Debit: 4066.00      
+Timestamp: 2018-06-08T22:41:36 Description: Aimbo                       Credit: 17603.26     Debit: N/A          
+----------------------------------------
+Total Credits: 17603.26
+Total Debits: 4066.00
+Current Balance: 13537.26
+================================================================
+

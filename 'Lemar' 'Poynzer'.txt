@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Lemar' 'Poynzer'
+Address: '87 Independence Point'
+City: 'Rockville'
+State: 'Maryland'
+PostalCode: '30386'
+
+========================================
+

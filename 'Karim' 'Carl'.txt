@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Karim' 'Carl'
+Address: '7943 Dennis Place'
+City: 'Corona'
+State: 'California'
+PostalCode: '71213'
+
+========================================
+
+Account ID: 682
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-28T22:28:42 Description: Aimbo                       Credit: N/A          Debit: 4209.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 4209.00
+Current Balance: -4209.00
+================================================================
+

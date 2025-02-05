@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Axel' 'Moultrie'
+Address: '11 Maryland Circle'
+City: 'San Luis Obispo'
+State: 'California'
+PostalCode: '87592'
+
+========================================
+
+Account ID: 991
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-03T12:38:11 Description: Blognation                  Credit: 18707.04     Debit: N/A          
+Timestamp: 2018-06-25T22:41:33 Description: Quatz                       Credit: N/A          Debit: 3196.00      
+----------------------------------------
+Total Credits: 18707.04
+Total Debits: 3196.00
+Current Balance: 15511.04
+================================================================
+

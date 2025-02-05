@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Adelind' 'Maltby'
+Address: '0 Welch Hill'
+City: 'Peoria'
+State: 'Illinois'
+PostalCode: '70616'
+
+========================================
+

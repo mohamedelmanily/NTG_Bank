@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Anne-marie' 'Varnals'
+Address: '36 Morrow Way'
+City: 'New York City'
+State: 'New York'
+PostalCode: '40586'
+
+========================================
+
+Account ID: 995
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

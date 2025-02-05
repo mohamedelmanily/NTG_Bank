@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Marmaduke' 'Fearnyough'
+Address: '758 Mariners Cove Road'
+City: 'North Little Rock'
+State: 'Arkansas'
+PostalCode: '22096'
+
+========================================
+
+Account ID: 975
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Fenelia' 'Youthead'
+Address: '26658 American Road'
+City: 'Philadelphia'
+State: 'Pennsylvania'
+PostalCode: '44760'
+
+========================================
+

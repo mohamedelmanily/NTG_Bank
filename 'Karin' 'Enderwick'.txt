@@ -1,0 +1,22 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Karin' 'Enderwick'
+Address: '62338 Fieldstone Hill'
+City: 'Columbus'
+State: 'Mississippi'
+PostalCode: '32309'
+
+========================================
+
+Account ID: 581
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-20T04:37:35 Description: Jetpulse                    Credit: N/A          Debit: 2508.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 2508.00
+Current Balance: -2508.00
+================================================================
+

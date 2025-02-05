@@ -1,0 +1,12 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Stanislaw' 'Clemmensen'
+Address: '9 Anzinger Avenue'
+City: 'Levittown'
+State: 'Pennsylvania'
+PostalCode: '22070'
+
+========================================
+
