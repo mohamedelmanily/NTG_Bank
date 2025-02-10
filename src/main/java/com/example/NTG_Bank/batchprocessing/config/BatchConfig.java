@@ -115,76 +115,11 @@ public class BatchConfig {
     public AccountItemProcessor accountItemProcessorBean() {
         return accountItemProcessor;
     }
-//    @Bean
-//    public ItemProcessor<Customer,Statement> StatementProcessorBean() {
-//        return statementProcessor.statementProcessor(jdbcTemplate);
-//    }
+
     @Bean
     public ItemProcessor<Customer, Statement> statementProcessorBean(JdbcTemplate jdbcTemplate) {
         return statementProcessor.statementProcessor(jdbcTemplate);
     }
-
-//    public ItemProcessor<Customer, Statement> statementProcessor(JdbcTemplate jdbcTemplate) {
-//        return customer -> {
-//            Statement statement = new Statement();
-//            statement.setCustomerId(customer.getCustomerId());
-//            statement.setCustomerName(customer.getFirstName() + " " + customer.getLastName());
-//            statement.setCustomerAddress(customer.getAddress1());
-//
-//            // جلب الحسابات المرتبطة بالعميل
-//            List<Account> accounts = jdbcTemplate.query(
-//                    "SELECT * FROM account WHERE customer_id = ?",
-//                    new BeanPropertyRowMapper<>(Account.class),
-//                    customer.getCustomerId()
-//            );
-//
-//            List<AccountSummary> accountSummaries = new ArrayList<>();
-//            for (Account account : accounts) {
-//                AccountSummary accountSummary = new AccountSummary();
-//                accountSummary.setAccountId(account.getAccountId());
-//
-//                // حساب الرصيد الحالي للحساب
-//                Double currentBalance = jdbcTemplate.queryForObject(
-//                        "SELECT COALESCE(SUM(credit), 0) - COALESCE(SUM(debit), 0) FROM transaction WHERE account_id = ?",
-//                        Double.class,
-//                        account.getAccountId()
-//                );
-//                accountSummary.setCurrentBalance(Optional.ofNullable(currentBalance).orElse(0.0));
-//
-//                List<Transaction> transactions = jdbcTemplate.query(
-//                        "SELECT * FROM transaction WHERE account_id = ?",
-//                        new BeanPropertyRowMapper<>(Transaction.class),
-//                        account.getAccountId()
-//                );
-//
-//                if (!transactions.isEmpty()) {
-//                    double totalCredits = transactions.stream()
-//                            .filter(t -> t.getCredit() != null)
-//                            .mapToDouble(Transaction::getCredit)
-//                            .sum();
-//
-//                    double totalDebits = transactions.stream()
-//                            .filter(t -> t.getDebit() != null)
-//                            .mapToDouble(Transaction::getDebit)
-//                            .sum();
-//
-//                    accountSummary.setTransactions(transactions);
-//                    accountSummary.setTotalCredits(totalCredits);
-//                    accountSummary.setTotalDebits(totalDebits);
-//                } else {
-//                    accountSummary.setTotalCredits(0.0);
-//                    accountSummary.setTotalDebits(0.0);
-//                    accountSummary.setTransactions(new ArrayList<>());
-//                }
-//
-//                accountSummaries.add(accountSummary);
-//            }
-//
-//            statement.setAccountSummaries(accountSummaries);
-//            return statement;
-//        };
-//    }
-
 
 
     //===================================  Writers =============================
@@ -207,33 +142,6 @@ public class BatchConfig {
     public ItemWriter<Statement> statementItemWriterBean(DataSource dataSource) {
         return statementWriter.statementWriter();
     }
-//    public ItemWriter<Statement> statementWriter() {
-//
-//        return statements -> {
-//            for (Statement statement : statements) {
-//                String fileName = statement.getCustomerName()+ ".txt";
-//                try (BufferedWriter writer = new BufferedWriter(new FileWriter(fileName))) {
-//                    writer.write("NTG Bank \n");
-//                    writer.write("Customer: " + statement.getCustomerName() + "\n");
-//                    writer.write("Address: " + statement.getCustomerAddress() + "\n\n\n");
-//                    for (AccountSummary accountSummary : statement.getAccountSummaries()) {
-//                        writer.write("Account ID: " + accountSummary.getAccountId() + "\n");
-//                        writer.write("Transactions:\n");
-//                        for (Transaction transaction : accountSummary.getTransactions()) {
-//                            writer.write(transaction.toString() + "\n");
-//                        }
-//                        writer.write("Total Credits: " + accountSummary.getTotalCredits() + "\n");
-//                        writer.write("Total Debits: " + accountSummary.getTotalDebits() + "\n");
-//                        writer.write("Current Balance: " + accountSummary.getCurrentBalance() + "\n");
-//                        writer.write("================================================================\n");
-//                    }
-//                } catch (IOException e) {
-//                    throw new RuntimeException("Failed to write statement file", e);
-//                }
-//            }
-//        };
-//    }
-
     //===================================    Steps ====================================
     @Bean
     public Step transactionStep(JobRepository jobRepository, DataSourceTransactionManager transactionManager, FlatFileItemReader<Transaction> transactionItemReader, TransactionItemProcessor transactionItemProcessor, JdbcBatchItemWriter<Transaction> transactionItemWriter) {
