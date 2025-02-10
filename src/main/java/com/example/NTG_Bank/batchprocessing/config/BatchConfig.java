@@ -92,13 +92,7 @@ public class BatchConfig {
     public JdbcCursorItemReader<Customer> statementReaderBean(DataSource dataSource) {
         return statementReader.statementReader(dataSource);
     }
-//    public JdbcCursorItemReader<Customer> statementReader(DataSource dataSource) {
-//        return new JdbcCursorItemReader<Customer>() {{
-//            setDataSource(dataSource);
-//            setSql("SELECT * FROM customer");
-//            setRowMapper(new BeanPropertyRowMapper<>(Customer.class));
-//        }};
-//    }
+
 
     //==============================    Processors ================================
     @Bean
