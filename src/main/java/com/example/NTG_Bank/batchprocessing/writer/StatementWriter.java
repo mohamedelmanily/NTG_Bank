@@ -1,22 +1,28 @@
 package com.example.NTG_Bank.batchprocessing.writer;
-
 import com.example.NTG_Bank.data_structure.AccountSummary;
 import com.example.NTG_Bank.data_structure.Statement;
 import com.example.NTG_Bank.entity.Transaction;
 import org.springframework.batch.item.ItemWriter;
 import org.springframework.stereotype.Component;
 import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
 @Component
 public class StatementWriter {
 
-    public ItemWriter<Statement> statementWriter() {
+    private static final String DIRECTORY_NAME = "src/main/resources/CustomersInfo";
 
+    public ItemWriter<Statement> statementWriter() {
         return statements -> {
+            File directory = new File(DIRECTORY_NAME);
+            if (!directory.exists()) {
+                directory.mkdir();
+            }
+
             for (Statement statement : statements) {
-                String fileName = statement.getCustomerName() + ".txt";
+                String fileName = DIRECTORY_NAME + File.separator + statement.getCustomerName() + ".txt";
                 try (BufferedWriter writer = new BufferedWriter(new FileWriter(fileName))) {
                     writer.write("========================================\n");
                     writer.write("NTG Bank Statement\n");

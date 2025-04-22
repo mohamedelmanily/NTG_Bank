@@ -1,0 +1,32 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Kippy' 'Redsull'
+Address: '9552 Susan Avenue'
+City: 'Tyler'
+State: 'Texas'
+PostalCode: '39534'
+
+========================================
+
+Account ID: 611
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 978
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-02T13:02:48 Description: Wordpedia                   Credit: N/A          Debit: 2971.00      
+Timestamp: 2018-06-05T20:07:33 Description: Eire                        Credit: 14756.92     Debit: N/A          
+----------------------------------------
+Total Credits: 14756.92
+Total Debits: 2971.00
+Current Balance: 11785.92
+================================================================
+

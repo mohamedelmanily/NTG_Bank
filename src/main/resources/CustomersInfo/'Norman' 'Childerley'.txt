@@ -1,0 +1,31 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Norman' 'Childerley'
+Address: '75 Harper Plaza'
+City: 'Palo Alto'
+State: 'California'
+PostalCode: '47937'
+
+========================================
+
+Account ID: 794
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 454
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-28T09:18:45 Description: Linklinks                   Credit: N/A          Debit: 4035.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 4035.00
+Current Balance: -4035.00
+================================================================
+

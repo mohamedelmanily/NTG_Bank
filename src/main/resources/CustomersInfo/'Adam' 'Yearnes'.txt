@@ -1,0 +1,41 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Adam' 'Yearnes'
+Address: '9 Harper Place'
+City: 'Arlington'
+State: 'Texas'
+PostalCode: '76544'
+
+========================================
+
+Account ID: 117
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 823
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-06T18:31:29 Description: Realmix                     Credit: N/A          Debit: 1335.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 1335.00
+Current Balance: -1335.00
+================================================================
+
+Account ID: 437
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-27T17:05:20 Description: Twiyo                       Credit: N/A          Debit: 3817.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 3817.00
+Current Balance: -3817.00
+================================================================
+

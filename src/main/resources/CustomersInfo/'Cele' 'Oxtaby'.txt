@@ -1,0 +1,33 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Cele' 'Oxtaby'
+Address: '0 Springs Trail'
+City: 'Milwaukee'
+State: 'Wisconsin'
+PostalCode: '98481'
+
+========================================
+
+Account ID: 164
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 111
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-26T15:33:26 Description: Roodel                      Credit: N/A          Debit: 2306.00      
+Timestamp: 2018-06-27T09:48:29 Description: Flashdog                    Credit: N/A          Debit: 3202.00      
+Timestamp: 2018-06-24T05:13:35 Description: Eimbee                      Credit: N/A          Debit: 1576.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 7084.00
+Current Balance: -7084.00
+================================================================
+

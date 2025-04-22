@@ -1,0 +1,33 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Jeffy' 'Lanchbury'
+Address: '523 Swallow Court'
+City: 'Gary'
+State: 'Indiana'
+PostalCode: '55441'
+
+========================================
+
+Account ID: 959
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-07T17:06:34 Description: Photolist                   Credit: N/A          Debit: 3308.00      
+Timestamp: 2018-06-21T05:32:30 Description: Divavu                      Credit: N/A          Debit: 201.00       
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 3509.00
+Current Balance: -3509.00
+================================================================
+
+Account ID: 47
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-02T06:16:37 Description: Yombu                       Credit: N/A          Debit: 4224.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 4224.00
+Current Balance: -4224.00
+================================================================
+

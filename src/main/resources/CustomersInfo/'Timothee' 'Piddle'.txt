@@ -1,0 +1,31 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Timothee' 'Piddle'
+Address: '0817 Lerdahl Hill'
+City: 'Abilene'
+State: 'Texas'
+PostalCode: '11220'
+
+========================================
+
+Account ID: 239
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 427
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-03T02:07:43 Description: Trudeo                      Credit: N/A          Debit: 2581.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 2581.00
+Current Balance: -2581.00
+================================================================
+

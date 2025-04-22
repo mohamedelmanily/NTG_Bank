@@ -1,0 +1,33 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Thaxter' 'Josiah'
+Address: '1 Dennis Trail'
+City: 'Hagerstown'
+State: 'Maryland'
+PostalCode: '05609'
+
+========================================
+
+Account ID: 380
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-26T12:39:36 Description: Wordify                     Credit: N/A          Debit: 156.00       
+Timestamp: 2018-06-26T11:00:42 Description: Blogpad                     Credit: N/A          Debit: 4869.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 5025.00
+Current Balance: -5025.00
+================================================================
+
+Account ID: 394
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-22T19:36:50 Description: Camido                      Credit: 4128.23      Debit: N/A          
+----------------------------------------
+Total Credits: 4128.23
+Total Debits: 0.00
+Current Balance: 4128.23
+================================================================
+

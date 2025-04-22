@@ -1,0 +1,23 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Vanya' 'O''Caine'
+Address: '35893 American Ash Street'
+City: 'Knoxville'
+State: 'Tennessee'
+PostalCode: '20520'
+
+========================================
+
+Account ID: 916
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-29T15:03:37 Description: Shufflebeat                 Credit: N/A          Debit: 4714.00      
+Timestamp: 2018-06-23T01:10:05 Description: Shuffledrive                Credit: N/A          Debit: 3682.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 8396.00
+Current Balance: -8396.00
+================================================================
+

@@ -1,0 +1,33 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Maurise' 'Reany'
+Address: '85732 Del Mar Point'
+City: 'Phoenix'
+State: 'Arizona'
+PostalCode: '77388'
+
+========================================
+
+Account ID: 719
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-23T09:45:23 Description: Flipbug                     Credit: 2509.06      Debit: N/A          
+Timestamp: 2018-06-12T06:33:51 Description: Aibox                       Credit: N/A          Debit: 2107.00      
+----------------------------------------
+Total Credits: 2509.06
+Total Debits: 2107.00
+Current Balance: 402.06
+================================================================
+
+Account ID: 20
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-19T14:26:10 Description: Voomm                       Credit: N/A          Debit: 4322.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 4322.00
+Current Balance: -4322.00
+================================================================
+

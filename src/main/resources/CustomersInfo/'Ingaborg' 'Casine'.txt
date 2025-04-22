@@ -1,0 +1,32 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Ingaborg' 'Casine'
+Address: '20535 Surrey Way'
+City: 'Fort Wayne'
+State: 'Indiana'
+PostalCode: '35231'
+
+========================================
+
+Account ID: 587
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-22T15:26:57 Description: Photojam                    Credit: N/A          Debit: 607.00       
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 607.00
+Current Balance: -607.00
+================================================================
+
+Account ID: 778
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-17T17:14:53 Description: Nlounge                     Credit: N/A          Debit: 834.00       
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 834.00
+Current Balance: -834.00
+================================================================
+

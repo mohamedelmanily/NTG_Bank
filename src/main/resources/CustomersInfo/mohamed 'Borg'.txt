@@ -1,0 +1,21 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: mohamed 'Borg'
+Address: '07 Stuart Junction'
+City: 'Washington'
+State: 'District of Columbia'
+PostalCode: '44105'
+
+========================================
+
+Account ID: 999
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

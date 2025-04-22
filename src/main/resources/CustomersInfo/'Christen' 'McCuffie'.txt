@@ -1,0 +1,32 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Christen' 'McCuffie'
+Address: '87 Utah Parkway'
+City: 'Oklahoma City'
+State: 'Oklahoma'
+PostalCode: '34643'
+
+========================================
+
+Account ID: 827
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-11T13:14:29 Description: Thoughtstorm                Credit: 6233.80      Debit: N/A          
+Timestamp: 2018-06-16T21:54:55 Description: Twinder                     Credit: N/A          Debit: 4042.00      
+----------------------------------------
+Total Credits: 6233.80
+Total Debits: 4042.00
+Current Balance: 2191.80
+================================================================
+
+Account ID: 230
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

@@ -1,0 +1,33 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Kermit' 'Fortnon'
+Address: '75 Spenser Court'
+City: 'Baltimore'
+State: 'Maryland'
+PostalCode: '30033'
+
+========================================
+
+Account ID: 857
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-28T17:01:49 Description: Flashdog                    Credit: N/A          Debit: 1507.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 1507.00
+Current Balance: -1507.00
+================================================================
+
+Account ID: 188
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-13T18:27:21 Description: Meemm                       Credit: N/A          Debit: 445.00       
+Timestamp: 2018-06-11T23:54:21 Description: Yacero                      Credit: 2742.50      Debit: N/A          
+----------------------------------------
+Total Credits: 2742.50
+Total Debits: 445.00
+Current Balance: 2297.50
+================================================================
+

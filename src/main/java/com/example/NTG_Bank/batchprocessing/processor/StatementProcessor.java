@@ -5,7 +5,6 @@ import com.example.NTG_Bank.entity.Account;
 import com.example.NTG_Bank.entity.Customer;
 import com.example.NTG_Bank.entity.Transaction;
 import org.springframework.batch.item.ItemProcessor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Component;
@@ -25,19 +24,19 @@ public class StatementProcessor {
             statement.setCity(customer.getCity());
             statement.setState(customer.getState());
 
-            // جلب الحسابات المرتبطة بالعميل
+            // Get All Accounts that belong to this customer
             List<Account> accounts = jdbcTemplate.query(
                     "SELECT * FROM account WHERE customer_id = ?",
                     new BeanPropertyRowMapper<>(Account.class),
                     customer.getCustomerId()
             );
-
+            //  make summary for every account
             List<AccountSummary> accountSummaries = new ArrayList<>();
             for (Account account : accounts) {
                 AccountSummary accountSummary = new AccountSummary();
                 accountSummary.setAccountId(account.getAccountId());
 
-                // حساب الرصيد الحالي للحساب
+                // Get Current Balance
                 Double currentBalance = jdbcTemplate.queryForObject(
                         "SELECT COALESCE(SUM(credit), 0) - COALESCE(SUM(debit), 0) FROM transaction WHERE account_id = ?",
                         Double.class,

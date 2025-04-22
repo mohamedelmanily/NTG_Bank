@@ -1,0 +1,42 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Yasmin' 'Sawart'
+Address: '376 Sundown Plaza'
+City: 'Evansville'
+State: 'Indiana'
+PostalCode: '44720'
+
+========================================
+
+Account ID: 657
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-11T20:24:03 Description: Oyoba                       Credit: N/A          Debit: 1584.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 1584.00
+Current Balance: -1584.00
+================================================================
+
+Account ID: 414
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-02T19:26:36 Description: Centizu                     Credit: N/A          Debit: 1935.00      
+Timestamp: 2018-06-12T10:15:55 Description: Photolist                   Credit: N/A          Debit: 4923.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 6858.00
+Current Balance: -6858.00
+================================================================
+
+Account ID: 544
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+

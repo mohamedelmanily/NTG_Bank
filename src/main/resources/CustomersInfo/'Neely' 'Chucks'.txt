@@ -1,0 +1,33 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Neely' 'Chucks'
+Address: '3 Blaine Way'
+City: 'Charlotte'
+State: 'North Carolina'
+PostalCode: '01152'
+
+========================================
+
+Account ID: 818
+Transactions:
+----------------------------------------
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 0.00
+Current Balance: 0.00
+================================================================
+
+Account ID: 98
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-13T03:30:32 Description: Tekfly                      Credit: N/A          Debit: 4635.00      
+Timestamp: 2018-06-24T14:45:50 Description: Kanoodle                    Credit: N/A          Debit: 2056.00      
+Timestamp: 2018-06-14T03:48:38 Description: Yodo                        Credit: 15161.22     Debit: N/A          
+----------------------------------------
+Total Credits: 15161.22
+Total Debits: 6691.00
+Current Balance: 8470.22
+================================================================
+

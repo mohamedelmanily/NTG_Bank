@@ -17,6 +17,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.Map;
 @Component
 public class TransactionsItemReader {
+
     public FlatFileItemReader<Transaction> reader() {
         BeanWrapperFieldSetMapper<Transaction> fieldSetMapper = new BeanWrapperFieldSetMapper<>();
         fieldSetMapper.setTargetType(Transaction.class);
@@ -43,7 +44,7 @@ public class TransactionsItemReader {
                 .delimited()
                 .names("transactionId", "accountId", "description", "credit", "debit", "timestamp") // تأكد من تطابق الأسماء مع Transaction
                 .linesToSkip(1)
-                .fieldSetMapper(fieldSetMapper) // استخدام FieldSetMapper
+                .fieldSetMapper(fieldSetMapper)
                 .build();
     }
 

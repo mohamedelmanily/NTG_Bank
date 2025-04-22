@@ -1,0 +1,43 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Donella' 'Weatherburn'
+Address: '2758 Randy Alley'
+City: 'Memphis'
+State: 'Tennessee'
+PostalCode: '43210'
+
+========================================
+
+Account ID: 341
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-05T22:36:52 Description: Trilia                      Credit: N/A          Debit: 4489.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 4489.00
+Current Balance: -4489.00
+================================================================
+
+Account ID: 730
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-20T20:20:14 Description: Browsetype                  Credit: 15375.07     Debit: N/A          
+Timestamp: 2018-06-29T06:43:32 Description: Yata                        Credit: 21157.09     Debit: N/A          
+----------------------------------------
+Total Credits: 36532.16
+Total Debits: 0.00
+Current Balance: 36532.16
+================================================================
+
+Account ID: 896
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-03T03:30:32 Description: Browsetype                  Credit: N/A          Debit: 1492.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 1492.00
+Current Balance: -1492.00
+================================================================
+

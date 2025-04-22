@@ -1,0 +1,32 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Josepha' 'Baistow'
+Address: '61126 Briar Crest Lane'
+City: 'Midland'
+State: 'Texas'
+PostalCode: '92612'
+
+========================================
+
+Account ID: 296
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-25T17:36:05 Description: Mydeo                       Credit: N/A          Debit: 3488.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 3488.00
+Current Balance: -3488.00
+================================================================
+
+Account ID: 18
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-17T21:40:45 Description: Voolia                      Credit: 18153.74     Debit: N/A          
+----------------------------------------
+Total Credits: 18153.74
+Total Debits: 0.00
+Current Balance: 18153.74
+================================================================
+

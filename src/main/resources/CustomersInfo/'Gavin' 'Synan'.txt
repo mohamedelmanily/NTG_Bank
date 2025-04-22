@@ -1,0 +1,35 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Gavin' 'Synan'
+Address: '58888 New Castle Court'
+City: 'Phoenix'
+State: 'Arizona'
+PostalCode: '28225'
+
+========================================
+
+Account ID: 357
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-29T17:49:10 Description: Bubblemix                   Credit: 4153.60      Debit: N/A          
+Timestamp: 2018-06-15T08:31:36 Description: Brightdog                   Credit: N/A          Debit: 129.00       
+Timestamp: 2018-06-01T11:56:12 Description: Skyba                       Credit: N/A          Debit: 2671.00      
+Timestamp: 2018-06-25T01:17:31 Description: Realbuzz                    Credit: N/A          Debit: 1852.00      
+----------------------------------------
+Total Credits: 4153.60
+Total Debits: 4652.00
+Current Balance: -498.40
+================================================================
+
+Account ID: 793
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-01T00:49:34 Description: Skyble                      Credit: N/A          Debit: 1562.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 1562.00
+Current Balance: -1562.00
+================================================================
+

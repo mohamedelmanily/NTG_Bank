@@ -1,0 +1,32 @@
+========================================
+NTG Bank Statement
+========================================
+
+Customer: 'Elianora' 'Rennebach'
+Address: '67595 Prairieview Point'
+City: 'Nashville'
+State: 'Tennessee'
+PostalCode: '79415'
+
+========================================
+
+Account ID: 928
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-07T13:08:45 Description: Twitterbridge               Credit: N/A          Debit: 1024.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 1024.00
+Current Balance: -1024.00
+================================================================
+
+Account ID: 46
+Transactions:
+----------------------------------------
+Timestamp: 2018-06-02T17:15:39 Description: Skyndu                      Credit: N/A          Debit: 4046.00      
+----------------------------------------
+Total Credits: 0.00
+Total Debits: 4046.00
+Current Balance: -4046.00
+================================================================
+

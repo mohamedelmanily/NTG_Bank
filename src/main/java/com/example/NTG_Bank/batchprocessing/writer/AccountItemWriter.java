@@ -13,9 +13,13 @@ public class AccountItemWriter {
         return new JdbcBatchItemWriterBuilder<Account>()
                 .itemSqlParameterSourceProvider(new BeanPropertyItemSqlParameterSourceProvider<>())
                 .sql("INSERT INTO account (account_id, customer_id) " +
-                        "VALUES (:accountId, :customerId)") // ✅ القوس المغلق
+                        "VALUES (:accountId, :customerId) " +
+                        "ON CONFLICT (account_id) DO UPDATE " +
+                        "SET customer_id = EXCLUDED.customer_id")
                 .dataSource(dataSource)
+                .beanMapped()
                 .build();
     }
+
 }
 

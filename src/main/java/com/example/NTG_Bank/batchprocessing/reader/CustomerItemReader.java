@@ -2,6 +2,7 @@ package com.example.NTG_Bank.batchprocessing.reader;
 import com.example.NTG_Bank.entity.Customer;
 import org.springframework.batch.item.file.FlatFileItemReader;
 import org.springframework.batch.item.file.builder.FlatFileItemReaderBuilder;
+import org.springframework.context.annotation.Bean;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Component;
 
